@@ -1,0 +1,967 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,500;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet"href="https://unpkg.com/swiper@8/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="css/style.css">
+    <title>Mozzart</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <img src="images/mozzart-logo.png" alt="">
+            </div>
+            <div class="sport-logos">
+                <button id="fdb-btn" class="fudbal-btn"><img src="images/fudbal-logo-big.png" alt=""></button>
+                <button id="kos-btn" class="kosarka-btn"><img src="images/kosarka-logo-big.png" alt=""></button>
+                <button id="ten-btn" class="tenis-btn"><img src="images/tenis-logo-big.png" alt=""></button>
+                <button id="hok-btn" class="hokej-btn"><img src="images/hokej-logo-big.png" alt=""></button>
+                <button id="ruk-btn" class="rukomet-btn"><img src="images/rukomet-logo-big.png" alt=""></button>
+                <button id="odb-btn" class="odbojka-btn"><img src="images/odbojka-logo-big.png" alt=""></button>
+            </div>
+            <div class="uplata">
+                <div class="uplata-text">
+                    <p>klikni na kvotu</p>
+                    <h3>POPUNI TIKET</h3>
+                    <div class="uplata-strelica">
+                        <img src="images/strelica.png">
+                    </div>
+                </div>
+                <img src="images/age-18-logo.png" alt="">
+            </div>
+            <div class="uplata-kvota">
+                <p>Kvota:<span id="kvote-el"></span></p>
+                <h3>UPLATI</h3>
+            </div>
+        </nav>
+    </header>
+
+    <div class="title">
+        <h1 id="title">Najigraniji mečevi</h1>
+        <div class="sport-logos-small">
+            <button id="fdb-btn-small" class="fudbal-btn"><img src="images/fudbal-logo-small.png" alt=""></button>
+            <button id="kos-btn-small" class="kosarka-btn"><img src="images/kosarka-logo-small.png" alt=""></button>
+            <button id="ten-btn-small" class="tenis-btn"><img src="images/tenis-logo-small.png" alt=""></button>
+            <button id="hok-btn-small" class="hokej-btn"><img src="images/hokej-logo-small.png" alt=""></button>
+            <button id="ruk-btn-small" class="rukomet-btn"><img src="images/rukomet-logo-small.png" alt=""></button>
+            <button id="odb-btn-small" class="odbojka-btn"><img src="images/odbojka-logo-small.png" alt=""></button>
+        </div>
+    </div>
+
+    <!-- SWIPER JS -->
+    <div class="swiper mySwiper">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide">
+            <!-- SWIPER PAGE 1-->
+            <div class="mecevi">
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme1"></p>
+                        <h3 id="domacin1"></h3>
+                        <h3 id="gost1"></h3>
+                    </div>
+        
+                    <div class="kvote mec-top-left">
+                        <h4>155</h4>
+                        <button id="par1-1" class="kvota"><p id="igra1-1"></p></button>
+                        <button id="par1-x" class="kvota"><p id="igrax-1"></p></button>
+                        <button id="par1-2" class="kvota"><p id="igra2-1"></p></button>
+                        <div class="play-left">
+                            <p>1</p>
+                            <p>X</p>
+                            <p>2</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme2"></p>
+                        <h3 id="domacin2"></h3>
+                        <h3 id="gost2"></h3>
+                    </div>
+        
+                    <div class="kvote mec-top-right">
+                        <h4>155</h4>
+                        <button id="par2-1" class="kvota"><p id="igra1-2"></p></button>
+                        <button id="par2-x" class="kvota"><p id="igrax-2"></p></button>
+                        <button id="par2-2" class="kvota"><p id="igra2-2"></p></button>
+                        <div class="play-right">
+                            <p>1</p>
+                            <p>X</p>
+                            <p>2</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme3"></p>
+                        <h3 id="domacin3"></h3>
+                        <h3 id="gost3"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par3-1" class="kvota"><p id="igra1-3"></p></button>
+                        <button id="par3-x" class="kvota"><p id="igrax-3"></p></button>
+                        <button id="par3-2" class="kvota"><p id="igra2-3"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme4"></p>
+                        <h3 id="domacin4"></h3>
+                        <h3 id="gost4"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par4-1" class="kvota"><p id="igra1-4"></p></button>
+                        <button id="par4-x" class="kvota"><p id="igrax-4"></p></button>
+                        <button id="par4-2" class="kvota"><p id="igra2-4"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme5"></p>
+                        <h3 id="domacin5"></h3>
+                        <h3 id="gost5"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par5-1" class="kvota"><p id="igra1-5"></p></button>
+                        <button id="par5-x" class="kvota"><p id="igrax-5"></p></button>
+                        <button id="par5-2" class="kvota"><p id="igra2-5"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme6"></p>
+                        <h3 id="domacin6"></h3>
+                        <h3 id="gost6"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par6-1" class="kvota"><p id="igra1-6"></p></button>
+                        <button id="par6-x" class="kvota"><p id="igrax-6"></p></button>
+                        <button id="par6-2" class="kvota"><p id="igra2-6"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme7"></p>
+                        <h3 id="domacin7"></h3>
+                        <h3 id="gost7"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par7-1" class="kvota"><p id="igra1-7"></p></button>
+                        <button id="par7-x" class="kvota"><p id="igrax-7"></p></button>
+                        <button id="par7-2" class="kvota"><p id="igra2-7"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme8"></p>
+                        <h3 id="domacin8"></h3>
+                        <h3 id="gost8"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par8-1" class="kvota"><p id="igra1-8"></p></button>
+                        <button id="par8-x" class="kvota"><p id="igrax-8"></p></button>
+                        <button id="par8-2" class="kvota"><p id="igra2-8"></p></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- SWIPER PAGE 2-->
+        <div class="swiper-slide">
+            <div class="mecevi">
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme9"></p>
+                        <h3 id="domacin9"></h3>
+                        <h3 id="gost9"></h3>
+                    </div>
+        
+                    <div class="kvote mec-top-left">
+                        <h4>155</h4>
+                        <button id="par9-1" class="kvota"><p id="igra1-9"></p></button>
+                        <button id="par9-x" class="kvota"><p id="igrax-9"></p></button>
+                        <button id="par9-2" class="kvota"><p id="igra2-9"></p></button>
+                        <div class="play-left">
+                            <p>1</p>
+                            <p>X</p>
+                            <p>2</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme10"></p>
+                        <h3 id="domacin10"></h3>
+                        <h3 id="gost10"></h3>
+                    </div>
+        
+                    <div class="kvote mec-top-right">
+                        <h4>155</h4>
+                        <button id="par10-1" class="kvota"><p id="igra1-10"></p></button>
+                        <button id="par10-x" class="kvota"><p id="igrax-10"></p></button>
+                        <button id="par10-2" class="kvota"><p id="igra2-10"></p></button>
+                        <div class="play-right">
+                            <p>1</p>
+                            <p>X</p>
+                            <p>2</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme11"></p>
+                        <h3 id="domacin11"></h3>
+                        <h3 id="gost11"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par11-1" class="kvota"><p id="igra1-11"></p></button>
+                        <button id="par11-x" class="kvota"><p id="igrax-11"></p></button>
+                        <button id="par11-2" class="kvota"><p id="igra2-11"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme12"></p>
+                        <h3 id="domacin12"></h3>
+                        <h3 id="gost12"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par12-1" class="kvota"><p id="igra1-12"></p></button>
+                        <button id="par12-x" class="kvota"><p id="igrax-12"></p></button>
+                        <button id="par12-2" class="kvota"><p id="igra2-12"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme13"></p>
+                        <h3 id="domacin13"></h3>
+                        <h3 id="gost13"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par13-1" class="kvota"><p id="igra1-13"></p></button>
+                        <button id="par13-x" class="kvota"><p id="igrax-13"></p></button>
+                        <button id="par13-2" class="kvota"><p id="igra2-13"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme14"></p>
+                        <h3 id="domacin14"></h3>
+                        <h3 id="gost14"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par14-1" class="kvota"><p id="igra1-14"></p></button>
+                        <button id="par14-x" class="kvota"><p id="igrax-14"></p></button>
+                        <button id="par14-2" class="kvota"><p id="igra2-14"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme15"></p>
+                        <h3 id="domacin15"></h3>
+                        <h3 id="gost15"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par15-1" class="kvota"><p id="igra1-15"></p></button>
+                        <button id="par15-x" class="kvota"><p id="igrax-15"></p></button>
+                        <button id="par15-2" class="kvota"><p id="igra2-15"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme16"></p>
+                        <h3 id="domacin16"></h3>
+                        <h3 id="gost16"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par16-1" class="kvota"><p id="igra1-16"></p></button>
+                        <button id="par16-x" class="kvota"><p id="igrax-16"></p></button>
+                        <button id="par16-2" class="kvota"><p id="igra2-16"></p></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SWIPER PAGE 3-->
+            <div class="swiper-slide">
+                <div class="mecevi">
+                    <div class="mec">
+                        <div class="timovi">
+                            <p class="time vreme17"></p>
+                            <h3 id="domacin17"></h3>
+                            <h3 id="gost17"></h3>
+                        </div>
+            
+                        <div class="kvote mec-top-left">
+                            <h4>155</h4>
+                            <button id="par17-1" class="kvota"><p id="igra1-17"></p></button>
+                            <button id="par17-x" class="kvota"><p id="igrax-17"></p></button>
+                            <button id="par17-2" class="kvota"><p id="igra2-17"></p></button>
+                            <div class="play-left">
+                                <p>1</p>
+                                <p>X</p>
+                                <p>2</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mec">
+                        <div class="timovi">
+                            <p class="time vreme18"></p>
+                            <h3 id="domacin18"></h3>
+                            <h3 id="gost18"></h3>
+                        </div>
+            
+                        <div class="kvote mec-top-right">
+                            <h4>155</h4>
+                            <button id="par18-1" class="kvota"><p id="igra1-18"></p></button>
+                            <button id="par18-x" class="kvota"><p id="igrax-18"></p></button>
+                            <button id="par18-2" class="kvota"><p id="igra2-18"></p></button>
+                            <div class="play-right">
+                                <p>1</p>
+                                <p>X</p>
+                                <p>2</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mec">
+                        <div class="timovi">
+                            <p class="time vreme19"></p>
+                            <h3 id="domacin19"></h3>
+                            <h3 id="gost19"></h3>
+                        </div>
+            
+                        <div class="kvote">
+                            <h4>155</h4>
+                            <button id="par19-1" class="kvota"><p id="igra1-19"></p></button>
+                            <button id="par19-x" class="kvota"><p id="igrax-19"></p></button>
+                            <button id="par19-2" class="kvota"><p id="igra2-19"></p></button>
+                        </div>
+                    </div>
+                    <div class="mec">
+                        <div class="timovi">
+                            <p class="time vreme20"></p>
+                            <h3 id="domacin20"></h3>
+                            <h3 id="gost20"></h3>
+                        </div>
+            
+                        <div class="kvote">
+                            <h4>155</h4>
+                            <button id="par20-1" class="kvota"><p id="igra1-20"></p></button>
+                            <button id="par20-x" class="kvota"><p id="igrax-20"></p></button>
+                            <button id="par20-2" class="kvota"><p id="igra2-20"></p></button>
+                        </div>
+                    </div>
+                    <div class="mec">
+                        <div class="timovi">
+                            <p class="time vreme21"></p>
+                            <h3 id="domacin21"></h3>
+                            <h3 id="gost21"></h3>
+                        </div>
+            
+                        <div class="kvote">
+                            <h4>155</h4>
+                            <button id="par21-1" class="kvota"><p id="igra1-21"></p></button>
+                            <button id="par21-x" class="kvota"><p id="igrax-21"></p></button>
+                            <button id="par21-2" class="kvota"><p id="igra2-21"></p></button>
+                        </div>
+                    </div>
+                    <div class="mec">
+                        <div class="timovi">
+                            <p class="time vreme22"></p>
+                            <h3 id="domacin22"></h3>
+                            <h3 id="gost22"></h3>
+                        </div>
+            
+                        <div class="kvote">
+                            <h4>155</h4>
+                            <button id="par22-1" class="kvota"><p id="igra1-22"></p></button>
+                            <button id="par22-x" class="kvota"><p id="igrax-22"></p></button>
+                            <button id="par22-2" class="kvota"><p id="igra2-22"></p></button>
+                        </div>
+                    </div>
+                    <div class="mec">
+                        <div class="timovi">
+                            <p class="time vreme23"></p>
+                            <h3 id="domacin23"></h3>
+                            <h3 id="gost23"></h3>
+                        </div>
+            
+                        <div class="kvote">
+                            <h4>155</h4>
+                            <button id="par23-1" class="kvota"><p id="igra1-23"></p></button>
+                            <button id="par23-x" class="kvota"><p id="igrax-23"></p></button>
+                            <button id="par23-2" class="kvota"><p id="igra2-23"></p></button>
+                        </div>
+                    </div>
+                    <div class="mec">
+                        <div class="timovi">
+                            <p class="time vreme24"></p>
+                            <h3 id="domacin24"></h3>
+                            <h3 id="gost24"></h3>
+                        </div>
+            
+                        <div class="kvote">
+                            <h4>155</h4>
+                            <button id="par24-1" class="kvota"><p id="igra1-24"></p></button>
+                            <button id="par24-x" class="kvota"><p id="igrax-24"></p></button>
+                            <button id="par24-2" class="kvota"><p id="igra2-24"></p></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        <!-- SWIPER JS PAGE 4 -->
+        <div class="swiper-slide">
+            <div class="mecevi">
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme25"></p>
+                        <h3 id="domacin25"></h3>
+                        <h3 id="gost25"></h3>
+                    </div>
+        
+                    <div class="kvote mec-top-left">
+                        <h4>155</h4>
+                        <button id="par25-1" class="kvota"><p id="igra1-25"></p></button>
+                        <button id="par25-x" class="kvota"><p id="igrax-25"></p></button>
+                        <button id="par25-2" class="kvota"><p id="igra2-25"></p></button>
+                        <div class="play-left">
+                            <p>1</p>
+                            <p>X</p>
+                            <p>2</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme26"></p>
+                        <h3 id="domacin26"></h3>
+                        <h3 id="gost26"></h3>
+                    </div>
+        
+                    <div class="kvote mec-top-right">
+                        <h4>155</h4>
+                        <button id="par26-1" class="kvota"><p id="igra1-26"></p></button>
+                        <button id="par26-x" class="kvota"><p id="igrax-26"></p></button>
+                        <button id="par26-2" class="kvota"><p id="igra2-26"></p></button>
+                        <div class="play-right">
+                            <p>1</p>
+                            <p>X</p>
+                            <p>2</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme27"></p>
+                        <h3 id="domacin27"></h3>
+                        <h3 id="gost27"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par27-1" class="kvota"><p id="igra1-27"></p></button>
+                        <button id="par27-x" class="kvota"><p id="igrax-27"></p></button>
+                        <button id="par27-2" class="kvota"><p id="igra2-27"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme28"></p>
+                        <h3 id="domacin28"></h3>
+                        <h3 id="gost28"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par28-1" class="kvota"><p id="igra1-28"></p></button>
+                        <button id="par28-x" class="kvota"><p id="igrax-28"></p></button>
+                        <button id="par28-2" class="kvota"><p id="igra2-28"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme29"></p>
+                        <h3 id="domacin29"></h3>
+                        <h3 id="gost29"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par29-1" class="kvota"><p id="igra1-29"></p></button>
+                        <button id="par29-x" class="kvota"><p id="igrax-29"></p></button>
+                        <button id="par29-2" class="kvota"><p id="igra2-29"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme30"></p>
+                        <h3 id="domacin30"></h3>
+                        <h3 id="gost30"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par30-1" class="kvota"><p id="igra1-30"></p></button>
+                        <button id="par30-x" class="kvota"><p id="igrax-30"></p></button>
+                        <button id="par30-2" class="kvota"><p id="igra2-30"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme31"></p>
+                        <h3 id="domacin31"></h3>
+                        <h3 id="gost31"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par31-1" class="kvota"><p id="igra1-31"></p></button>
+                        <button id="par31-x" class="kvota"><p id="igrax-31"></p></button>
+                        <button id="par31-2" class="kvota"><p id="igra2-31"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme32"></p>
+                        <h3 id="domacin32"></h3>
+                        <h3 id="gost32"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par32-1" class="kvota"><p id="igra1-32"></p></button>
+                        <button id="par32-x" class="kvota"><p id="igrax-32"></p></button>
+                        <button id="par32-2" class="kvota"><p id="igra2-32"></p></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SWIPER PAGE 5-->
+        <div class="swiper-slide">
+            <div class="mecevi">
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme33"></p>
+                        <h3 id="domacin33"></h3>
+                        <h3 id="gost33"></h3>
+                    </div>
+        
+                    <div class="kvote mec-top-left">
+                        <h4>155</h4>
+                        <button id="par33-1" class="kvota"><p id="igra1-33"></p></button>
+                        <button id="par33-x" class="kvota"><p id="igrax-33"></p></button>
+                        <button id="par33-2" class="kvota"><p id="igra2-33"></p></button>
+                        <div class="play-left">
+                            <p>1</p>
+                            <p>X</p>
+                            <p>2</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme34"></p>
+                        <h3 id="domacin34"></h3>
+                        <h3 id="gost34"></h3>
+                    </div>
+        
+                    <div class="kvote mec-top-right">
+                        <h4>155</h4>
+                        <button id="par34-1" class="kvota"><p id="igra1-34"></p></button>
+                        <button id="par34-x" class="kvota"><p id="igrax-34"></p></button>
+                        <button id="par34-2" class="kvota"><p id="igra2-34"></p></button>
+                        <div class="play-right">
+                            <p>1</p>
+                            <p>X</p>
+                            <p>2</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme35"></p>
+                        <h3 id="domacin35"></h3>
+                        <h3 id="gost35"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par35-1" class="kvota"><p id="igra1-35"></p></button>
+                        <button id="par35-x" class="kvota"><p id="igrax-35"></p></button>
+                        <button id="par35-2" class="kvota"><p id="igra2-35"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme36"></p>
+                        <h3 id="domacin36"></h3>
+                        <h3 id="gost36"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par36-1" class="kvota"><p id="igra1-36"></p></button>
+                        <button id="par36-x" class="kvota"><p id="igrax-36"></p></button>
+                        <button id="par36-2" class="kvota"><p id="igra2-36"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme37"></p>
+                        <h3 id="domacin37"></h3>
+                        <h3 id="gost37"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par37-1" class="kvota"><p id="igra1-37"></p></button>
+                        <button id="par37-x" class="kvota"><p id="igrax-37"></p></button>
+                        <button id="par37-2" class="kvota"><p id="igra2-37"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme38"></p>
+                        <h3 id="domacin38"></h3>
+                        <h3 id="gost38"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par38-1" class="kvota"><p id="igra1-38"></p></button>
+                        <button id="par38-x" class="kvota"><p id="igrax-38"></p></button>
+                        <button id="par38-2" class="kvota"><p id="igra2-38"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme39"></p>
+                        <h3 id="domacin39"></h3>
+                        <h3 id="gost39"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par39-1" class="kvota"><p id="igra1-39"></p></button>
+                        <button id="par39-x" class="kvota"><p id="igrax-39"></p></button>
+                        <button id="par39-2" class="kvota"><p id="igra2-39"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme40"></p>
+                        <h3 id="domacin40"></h3>
+                        <h3 id="gost40"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par40-1" class="kvota"><p id="igra1-40"></p></button>
+                        <button id="par40-x" class="kvota"><p id="igrax-40"></p></button>
+                        <button id="par40-2" class="kvota"><p id="igra2-40"></p></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SWIPER JS PAGE 6-->
+        <div class="swiper-slide">
+            <div class="mecevi">
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme41"></p>
+                        <h3 id="domacin41"></h3>
+                        <h3 id="gost41"></h3>
+                    </div>
+        
+                    <div class="kvote mec-top-left">
+                        <h4>155</h4>
+                        <button id="par41-1" class="kvota"><p id="igra1-41"></p></button>
+                        <button id="par41-x" class="kvota"><p id="igrax-41"></p></button>
+                        <button id="par41-2" class="kvota"><p id="igra2-41"></p></button>
+                        <div class="play-left">
+                            <p>1</p>
+                            <p>X</p>
+                            <p>2</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme42"></p>
+                        <h3 id="domacin42"></h3>
+                        <h3 id="gost42"></h3>
+                    </div>
+        
+                    <div class="kvote mec-top-right">
+                        <h4>155</h4>
+                        <button id="par42-1" class="kvota"><p id="igra1-42"></p></button>
+                        <button id="par42-x" class="kvota"><p id="igrax-42"></p></button>
+                        <button id="par42-2" class="kvota"><p id="igra2-42"></p></button>
+                        <div class="play-right">
+                            <p>1</p>
+                            <p>X</p>
+                            <p>2</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme43"></p>
+                        <h3 id="domacin43"></h3>
+                        <h3 id="gost43"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par43-1" class="kvota"><p id="igra1-43"></p></button>
+                        <button id="par43-x" class="kvota"><p id="igrax-43"></p></button>
+                        <button id="par43-2" class="kvota"><p id="igra2-43"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme44"></p>
+                        <h3 id="domacin44"></h3>
+                        <h3 id="gost44"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par44-1" class="kvota"><p id="igra1-44"></p></button>
+                        <button id="par44-x" class="kvota"><p id="igrax-44"></p></button>
+                        <button id="par44-2" class="kvota"><p id="igra2-44"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme45"></p>
+                        <h3 id="domacin45"></h3>
+                        <h3 id="gost45"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par45-1" class="kvota"><p id="igra1-45"></p></button>
+                        <button id="par45-x" class="kvota"><p id="igrax-45"></p></button>
+                        <button id="par45-2" class="kvota"><p id="igra2-45"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme46"></p>
+                        <h3 id="domacin46"></h3>
+                        <h3 id="gost46"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par46-1" class="kvota"><p id="igra1-46"></p></button>
+                        <button id="par46-x" class="kvota"><p id="igrax-46"></p></button>
+                        <button id="par46-2" class="kvota"><p id="igra2-46"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme47"></p>
+                        <h3 id="domacin47"></h3>
+                        <h3 id="gost47"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par47-1" class="kvota"><p id="igra1-47"></p></button>
+                        <button id="par47-x" class="kvota"><p id="igrax-47"></p></button>
+                        <button id="par47-2" class="kvota"><p id="igra2-47"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme48"></p>
+                        <h3 id="domacin48"></h3>
+                        <h3 id="gost48"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par48-1" class="kvota"><p id="igra1-48"></p></button>
+                        <button id="par48-x" class="kvota"><p id="igrax-48"></p></button>
+                        <button id="par48-2" class="kvota"><p id="igra2-48"></p></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SWIPER JS PAGE 7-->
+        <div class="swiper-slide">
+            <div class="mecevi">
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme49"></p>
+                        <h3 id="domacin49"></h3>
+                        <h3 id="gost49"></h3>
+                    </div>
+        
+                    <div class="kvote mec-top-left">
+                        <h4>155</h4>
+                        <button id="par49-1" class="kvota"><p id="igra1-49"></p></button>
+                        <button id="par49-x" class="kvota"><p id="igrax-49"></p></button>
+                        <button id="par49-2" class="kvota"><p id="igra2-49"></p></button>
+                        <div class="play-left">
+                            <p>1</p>
+                            <p>X</p>
+                            <p>2</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme50"></p>
+                        <h3 id="domacin50"></h3>
+                        <h3 id="gost50"></h3>
+                    </div>
+        
+                    <div class="kvote mec-top-right">
+                        <h4>155</h4>
+                        <button id="par50-1" class="kvota"><p id="igra1-50"></p></button>
+                        <button id="par50-x" class="kvota"><p id="igrax-50"></p></button>
+                        <button id="par50-2" class="kvota"><p id="igra2-50"></p></button>
+                        <div class="play-right">
+                            <p>1</p>
+                            <p>X</p>
+                            <p>2</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme51"></p>
+                        <h3 id="domacin51"></h3>
+                        <h3 id="gost51"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par51-1" class="kvota"><p id="igra1-51"></p></button>
+                        <button id="par51-x" class="kvota"><p id="igrax-51"></p></button>
+                        <button id="par51-2" class="kvota"><p id="igra2-51"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme52"></p>
+                        <h3 id="domacin52"></h3>
+                        <h3 id="gost52"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par52-1" class="kvota"><p id="igra1-52"></p></button>
+                        <button id="par52-x" class="kvota"><p id="igrax-52"></p></button>
+                        <button id="par52-2" class="kvota"><p id="igra2-52"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme53"></p>
+                        <h3 id="domacin53"></h3>
+                        <h3 id="gost53"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par53-1" class="kvota"><p id="igra1-53"></p></button>
+                        <button id="par53-x" class="kvota"><p id="igrax-53"></p></button>
+                        <button id="par53-2" class="kvota"><p id="igra2-53"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme54"></p>
+                        <h3 id="domacin54"></h3>
+                        <h3 id="gost54"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par54-1" class="kvota"><p id="igra1-54"></p></button>
+                        <button id="par54-x" class="kvota"><p id="igrax-54"></p></button>
+                        <button id="par54-2" class="kvota"><p id="igra2-54"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme55"></p>
+                        <h3 id="domacin55"></h3>
+                        <h3 id="gost55"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par55-1" class="kvota"><p id="igra1-55"></p></button>
+                        <button id="par55-x" class="kvota"><p id="igrax-55"></p></button>
+                        <button id="par55-2" class="kvota"><p id="igra2-55"></p></button>
+                    </div>
+                </div>
+                <div class="mec">
+                    <div class="timovi">
+                        <p class="time vreme56"></p>
+                        <h3 id="domacin56"></h3>
+                        <h3 id="gost56"></h3>
+                    </div>
+        
+                    <div class="kvote">
+                        <h4>155</h4>
+                        <button id="par56-1" class="kvota"><p id="igra1-56"></p></button>
+                        <button id="par56-x" class="kvota"><p id="igrax-56"></p></button>
+                        <button id="par56-2" class="kvota"><p id="igra2-56"></p></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+      </div>
+    </div>
+    <div class="border">
+        <div class="swiper-pagination"></div>
+    </div>
+
+    <!-- Swiper JS -->
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
