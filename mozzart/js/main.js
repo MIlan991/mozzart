@@ -3769,6 +3769,390 @@ let tenis = [
         igra2: 2.45,
         vreme8: "Cet. 19:00"
     },
+    {   // TENIS PAR 9
+        domacin9: "Diego Schwartzman",
+        gost9: "Denis Shapovalov",
+        igra1: 1.25,
+        igraX: "-",
+        igra2: 4.55,
+        vreme9: "Sub. 16:00"
+    },
+    {   // TENIS PAR 10
+        domacin10: "Reilly Opelka",
+        gost10: "Pablo Carreno Busta",
+        igra1: 2.05,
+        igraX: "-",
+        igra2: 2.85,
+        vreme10: "Sub. 18:00"
+    },
+    {   // TENIS PAR 11
+        domacin11: "Roberto Bautista Agut",
+        gost11: "Grigor Dimitrov",
+        igra1: 3.25,
+        igraX: "-",
+        igra2: 1.85,
+        vreme11: "Uto. 19:00"
+    },
+    {   // TENIS PAR 12
+        domacin12: "Alex de Minaur",
+        gost12: "Karen Khachanov",
+        igra1: 5.25,
+        igraX: "-",
+        igra2: 1.45,
+        vreme12: "Pet. 00:00"
+    },
+    {   // TENIS PAR 13
+        domacin13: "Gael Monfils",
+        gost13: "John Isner",
+        igra1: 2.05,
+        igraX: "-",
+        igra2: 2.85,
+        vreme13: "Sre. 16:00"
+    },
+    {   // TENIS PAR 14
+        domacin14: "Nikoloz Basilashvili",
+        gost14: "Frances Tiafoe",
+        igra1: 3.15,
+        igraX: "-",
+        igra2: 1.65,
+        vreme14: "Pon. 19:00"
+    },
+    {   // TENIS PAR 15
+        domacin15: "Holger Rune",
+        gost15: "Alejandro Davidovich",
+        igra1: 1.95,
+        igraX: "-",
+        igra2: 2.25,
+        vreme15: "Pon. 16:00"
+    },
+    {   // TENIS PAR 16
+        domacin16: "Miomir Kecmanovic",
+        gost16: "Lorenzo Sonego",
+        igra1: 2.15,
+        igraX: "-",
+        igra2: 2.25,
+        vreme16: "Cet. 19:00"
+    },
+    {   // TENIS PAR 17
+        domacin17: "Cristian Garin",
+        gost17: "Jenson Brooksby",
+        igra1: 2.65,
+        igraX: "-",
+        igra2: 1.55,
+        vreme17: "Cet. 14:30"
+    },
+    {   // TENIS PAR 18
+        domacin18: "Daniel Evans",
+        gost18: "Sebastian Baez",
+        igra1: 2.35,
+        igraX: "-",
+        igra2: 3.45,
+        vreme18: "Sre. 20:15"
+    },
+    {   // TENIS PAR 19
+        domacin19: "Lloyd Harris",
+        gost19: "Tommy Paul",
+        igra1: 2.35,
+        igraX: "-",
+        igra2: 2.25,
+        vreme19: "Sre. 20:00"
+    },
+    {   // TENIS PAR 20
+        domacin20: "Sebastian Korda",
+        gost20: "Aslan Karatsev",
+        igra1: 3.25,
+        igraX: "-",
+        igra2: 1.85,
+        vreme20: "Pon. 13:00"
+    },
+    {   // TENIS PAR 21
+        domacin21: "David Goffin",
+        gost21: "Alexander Bublik",
+        igra1: 2.35,
+        igraX: "-",
+        igra2: 1.55,
+        vreme21: "Sre. 21:00"
+    },
+    {   // TENIS PAR 22
+        domacin22: "Albert Ramos",
+        gost22: "Francisco Cerundolo",
+        igra1: 2.15,
+        igraX: "-",
+        igra2: 1.85,
+        vreme22: "Sre. 13:30"
+    },
+    {   // TENIS PAR 23
+        domacin23: "Pedro Martinez",
+        gost23: "Alex Molcan",
+        igra1: 2.65,
+        igraX: "-",
+        igra2: 1.15,
+        vreme23: "Uto. 10:00"
+    },
+    {   // TENIS PAR 24
+        domacin24: "Filip Krajinovic",
+        gost24: "Ugo Humbert",
+        igra1: 2.05,
+        igraX: "-",
+        igra2: 1.85,
+        vreme24: "Uto. 13:00"
+    },
+    {   // TENIS PAR 25
+        domacin25: "Ilya Ivashka",
+        gost25: "Mackenzie McDonald",
+        igra1: 1.85,
+        igraX: "-",
+        igra2: 2.35,
+        vreme25: "Uto. 16:00"
+    },
+    {   // TENIS PAR 26
+        domacin26: "Fabio Fognini",
+        gost26: "Marcos Giron",
+        igra1: 2.65,
+        igraX: "-",
+        igra2: 1.85,
+        vreme26: "Uto. 23:00"
+    },
+    {   // TENIS PAR 27
+        domacin27: "Laslo Djere",
+        gost27: "Marton Fucsovics",
+        igra1: 2.35,
+        igraX: "-",
+        igra2: 2.65,
+        vreme27: "Uto. 23:00"
+    },
+    {   // TENIS PAR 28
+        domacin28: "Tallon Griekspoor",
+        gost28: "Lorenzo Musetti",
+        igra1: 1.45,
+        igraX: "-",
+        igra2: 4.35,
+        vreme28: "Uto. 23:00"
+    },
+    {   // TENIS PAR 29
+        domacin29: "Benjamin Bonzi",
+        gost29: "Daniel Altmaier",
+        igra1: 1.75,
+        igraX: "-",
+        igra2: 2.25,
+        vreme29: "Sre. 13:00"
+    },
+    {   // TENIS PAR 30
+        domacin30: "Arthur Rinderknech",
+        gost30: "Oscar Otte",
+        igra1: 2.15,
+        igraX: "-",
+        igra2: 2.45,
+        vreme30: "Sre. 20:00"
+    },
+    {   // TENIS PAR 31
+        domacin31: "Emil Ruusuvuori",
+        gost31: "Joao Sousa",
+        igra1: 2.45,
+        igraX: "-",
+        igra2: 2.15,
+        vreme31: "Sre. 20:00"
+    },
+    {   // TENIS PAR 32
+        domacin32: "Brandon Nakashima",
+        gost32: "Federico Coria",
+        igra1: 1.65,
+        igraX: "-",
+        igra2: 3.85,
+        vreme32: "Uto. 18:00"
+    },
+    {   // KOSARKA PAR 33
+        domacin33: "Iga Świątek",
+        gost33: "Anett Kontaveit",
+        igra1: 2.25,
+        igraX: "-",
+        igra2: 3.45,
+        vreme33: "Uto. 03:00"
+    },
+    {   // TENIS PAR 34
+        domacin34: "Paula Badosa",
+        gost34: "Ons Jabeur",
+        igra1: 2.25,
+        igraX: "-",
+        igra2: 3.85,
+        vreme34: "Uto. 03:00"
+    },
+    {   // TENIS PAR 35
+        domacin35: "Maria Sakkari",
+        gost35: "Aryna Sabalenka",
+        igra1: 3.95,
+        igraX: "-",
+        igra2: 1.65,
+        vreme35: "Uto. 03:00"
+    },
+    {   // TENIS PAR 36
+        domacin36: "Karolína Plíšková",
+        gost36: "Jessica Pegula",
+        igra1: 3.15,
+        igraX: "-",
+        igra2: 3.25,
+        vreme36: "Uto. 03:00"
+    },
+    {   // TENIS PAR 37
+        domacin37: "Danielle Collins",
+        gost37: "Garbiñe Muguruza",
+        igra1: 3.25,
+        igraX: "-",
+        igra2: 2.65,
+        vreme37: "Sre. 09:00"
+    },
+    {   // TENIS PAR 38
+        domacin38: "Emma Raducanu",
+        gost38: "Daria Kasatkina",
+        igra1: 3.65,
+        igraX: "-",
+        igra2: 1.85,
+        vreme38: "Uto. 05:00"
+    },
+    {   // TENIS PAR 39
+        domacin39: "Cori Gauff",
+        gost39: "Barbora Krejčíková",
+        igra1: 2.35,
+        igraX: "-",
+        igra2: 2.45,
+        vreme39: "Uto. 05:00"
+    },
+    {   // TENIS PAR 40
+        domacin40: "Leylah Fernandez",
+        gost40: "Jeļena Ostapenko",
+        igra1: 2.65,
+        igraX: "-",
+        igra2: 1.95,
+        vreme40: "Uto. 05:00"
+    },
+    {   // TENIS PAR 41
+        domacin41: "Belinda Bencic",
+        gost41: "Angelique Kerber",
+        igra1: 2.65,
+        igraX: "-",
+        igra2: 1.55,
+        vreme41: "Sre. 19:30"
+    },
+    {   // TENIS PAR 42
+        domacin42: "Victoria Azarenka",
+        gost42: "Simona Halep",
+        igra1: 2.35,
+        igraX: "-",
+        igra2: 3.45,
+        vreme42: "Sre. 19:30"
+    },
+    {   // TENIS PAR 43
+        domacin43: "Elena Rybakina",
+        gost43: "Jil Teichmann",
+        igra1: 2.35,
+        igraX: "-",
+        igra2: 2.25,
+        vreme43: "Sre. 20:00"
+    },
+    {   // TENIS PAR 44
+        domacin44: "Madison Keys",
+        gost44: "Veronika Kudermetova",
+        igra1: 4.25,
+        igraX: "-",
+        igra2: 1.65,
+        vreme44: "Sre. 20:00"
+    },
+    {   // TENIS PAR 45
+        domacin45: "Amanda Anisimova",
+        gost45: "Camila Giorgi",
+        igra1: 3.45,
+        igraX: "-",
+        igra2: 1.85,
+        vreme45: "Sre. 21:00"
+    },
+    {   // TENIS PAR 46
+        domacin46: "Martina Trevisan",
+        gost46: "Ludmilla Samsonova",
+        igra1: 2.75,
+        igraX: "-",
+        igra2: 2.15,
+        vreme46: "Sre. 20:00"
+    },
+    {   // TENIS PAR 47
+        domacin47: "Elise Mertens",
+        gost47: "Ekaterina Alexandrova",
+        igra1: 2.05,
+        igraX: "-",
+        igra2: 3.15,
+        vreme47: "Sre. 20:00"
+    },
+    {   // TENIS PAR 48
+        domacin48: "Petra Kvitová",
+        gost48: "Yulia Putintseva",
+        igra1: 2.85,
+        igraX: "-",
+        igra2: 1.95,
+        vreme48: "Sre. 18:00"
+    },
+    {   // TENIS PAR 49
+        domacin49: "Alizé Cornet",
+        gost49: "Sorana Cîrstea",
+        igra1: 3.25,
+        igraX: "-",
+        igra2: 1.85,
+        vreme49: "Uto. 03:00"
+    },
+    {   // TENIS PAR 50
+        domacin50: "Aliaksandra Sasnovich",
+        gost50: "Anhelina Kalinina",
+        igra1: 2.25,
+        igraX: "-",
+        igra2: 3.85,
+        vreme50: "Uto. 03:00"
+    },
+    {   // TENIS PAR 51
+        domacin51: "Chicago Bulls",
+        gost51: "Denver Nuggets",
+        igra1: 2.95,
+        igraX: "-",
+        igra2: 2.05,
+        vreme51: "Uto. 03:00"
+    },
+    {   // TENIS PAR 52
+        domacin52: "Elina Svitolina",
+        gost52: "Kaia Kanepi",
+        igra1: 3.25,
+        igraX: "-",
+        igra2: 2.35,
+        vreme52: "Uto. 03:00"
+    },
+    {   // TENIS PAR 53
+        domacin53: "Sara Sorribes",
+        gost53: "Alison Riske",
+        igra1: 1.45,
+        igraX: "-",
+        igra2: 3.85,
+        vreme53: "Sre. 19:00"
+    },
+    {   // TENIS PAR 54
+        domacin54: "Shuai Zhang",
+        gost54: "Shelby Rogers",
+        igra1: 2.35,
+        igraX: "-",
+        igra2: 2.85,
+        vreme54: "Uto. 20:00"
+    },
+    {   // TENIS PAR 55
+        domacin55: "Naomi Osaka",
+        gost55: "Mayar Sherif",
+        igra1: 2.15,
+        igraX: "-",
+        igra2: 3.45,
+        vreme55: "Uto. 20:00"
+    },
+    {   // TENIS PAR 56
+        domacin56: "Ajla Tomljanović",
+        gost56: "Sloane Stephens",
+        igra1: 2.35,
+        igraX: "-",
+        igra2: 2.85,
+        vreme56: "Uto. 18:00"
+    },
 ]  
 
 function tenisFunction() {
@@ -3829,6 +4213,341 @@ function tenisFunction() {
     osmiPar1.textContent = tenis[7].igra1
     osmiParX.textContent = tenis[7].igraX
     osmiPar2.textContent = tenis[7].igra2
+    // TENIS PAR 9
+    vreme9El.textContent = tenis[8].vreme9
+    domacin9El.textContent = tenis[8].domacin9
+    gost9El.textContent = tenis[8].gost9
+    devetiPar1.textContent = tenis[8].igra1
+    devetiParX.textContent = tenis[8].igraX
+    devetiPar2.textContent = tenis[8].igra2
+    // TENIS PAR 10
+    vreme10El.textContent = tenis[9].vreme10
+    domacin10El.textContent = tenis[9].domacin10
+    gost10El.textContent = tenis[9].gost10
+    desetiPar1.textContent = tenis[9].igra1
+    desetiParX.textContent = tenis[9].igraX
+    desetiPar2.textContent = tenis[9].igra2
+    // TENIS PAR 11
+    vreme11El.textContent = tenis[10].vreme11
+    domacin11El.textContent = tenis[10].domacin11
+    gost11El.textContent = tenis[10].gost11
+    desetiPar1.textContent = tenis[10].igra1
+    desetiParX.textContent = tenis[10].igraX
+    desetiPar2.textContent = tenis[10].igra2
+    // TENIS PAR 12
+    vreme12El.textContent = tenis[11].vreme12
+    domacin12El.textContent = tenis[11].domacin12
+    gost12El.textContent = tenis[11].gost12
+    dvanaestiPar1.textContent = tenis[11].igra1
+    dvanaestiParX.textContent = tenis[11].igraX
+    dvanaestiPar2.textContent = tenis[11].igra2
+    // TENIS PAR 13
+    vreme13El.textContent = tenis[12].vreme13
+    domacin13El.textContent = tenis[12].domacin13
+    gost13El.textContent = tenis[12].gost13
+    trinaestiPar1.textContent = tenis[12].igra1
+    trinaestiParX.textContent = tenis[12].igraX
+    trinaestiPar2.textContent = tenis[12].igra2
+    // TENIS PAR 14
+    vreme14El.textContent = tenis[13].vreme14
+    domacin14El.textContent = tenis[13].domacin14
+    gost14El.textContent = tenis[13].gost14
+    cetrnaestiPar1.textContent = tenis[13].igra1
+    cetrnaestiParX.textContent = tenis[13].igraX
+    cetrnaestiPar2.textContent = tenis[13].igra2
+    // TENIS PAR 15
+    vreme15El.textContent = tenis[14].vreme15
+    domacin15El.textContent = tenis[14].domacin15
+    gost15El.textContent = tenis[14].gost15
+    petnaestiPar1.textContent = tenis[14].igra1
+    petnaestiParX.textContent = tenis[14].igraX
+    petnaestiPar2.textContent = tenis[14].igra2
+    // TENIS PAR 16
+    vreme16El.textContent = tenis[15].vreme16
+    domacin16El.textContent = tenis[15].domacin16
+    gost16El.textContent = tenis[15].gost16
+    sesnaestiPar1.textContent = tenis[15].igra1
+    sesnaestiParX.textContent = tenis[15].igraX
+    sesnaestiPar2.textContent = tenis[15].igra2
+    // TENIS PAR 17
+    vreme17El.textContent = tenis[16].vreme17
+    domacin17El.textContent = tenis[16].domacin17
+    gost17El.textContent = tenis[16].gost17
+    sedamnaestiPar1.textContent = tenis[16].igra1
+    sedamnaestiParX.textContent = tenis[16].igraX
+    sedamnaestiPar2.textContent = tenis[16].igra2
+    // TENIS PAR 18
+    vreme18El.textContent = tenis[17].vreme18
+    domacin18El.textContent = tenis[17].domacin18
+    gost18El.textContent = tenis[17].gost18
+    osamnaestiPar1.textContent = tenis[17].igra1
+    osamnaestiParX.textContent = tenis[17].igraX
+    osamnaestiPar2.textContent = tenis[17].igra2
+    // TENIS PAR 19
+    vreme19El.textContent = tenis[18].vreme19
+    domacin19El.textContent = tenis[18].domacin19
+    gost19El.textContent = tenis[18].gost19
+    devetnaestiPar1.textContent = tenis[18].igra1
+    devetnaestiParX.textContent = tenis[18].igraX
+    devetnaestiPar2.textContent = tenis[18].igra2
+    // TENIS PAR 20
+    vreme20El.textContent = tenis[19].vreme20
+    domacin20El.textContent = tenis[19].domacin20
+    gost20El.textContent = tenis[19].gost20
+    dvadesetiPar1.textContent = tenis[19].igra1
+    dvadesetiParX.textContent = tenis[19].igraX
+    dvadesetiPar2.textContent = tenis[19].igra2
+    // TENIS PAR 21
+    vreme21El.textContent = tenis[20].vreme21
+    domacin21El.textContent = tenis[20].domacin21
+    gost21El.textContent = tenis[20].gost21
+    dvadesetprviPar1.textContent = tenis[20].igra1
+    dvadesetprviParX.textContent = tenis[20].igraX
+    dvadesetprviPar2.textContent = tenis[20].igra2
+    // TENIS PAR 22
+    vreme22El.textContent = tenis[21].vreme22
+    domacin22El.textContent = tenis[21].domacin22
+    gost22El.textContent = tenis[21].gost22
+    dvadesetdrugiPar1.textContent = tenis[21].igra1
+    dvadesetdrugiParX.textContent = tenis[21].igraX
+    dvadesetdrugiPar2.textContent = tenis[21].igra2
+    // TENIS PAR 23
+    vreme23El.textContent = tenis[22].vreme23
+    domacin23El.textContent = tenis[22].domacin23
+    gost23El.textContent = tenis[22].gost23
+    dvadesettreciPar1.textContent = tenis[22].igra1
+    dvadesettreciParX.textContent = tenis[22].igraX
+    dvadesettreciPar2.textContent = tenis[22].igra2
+    // TENIS PAR 24
+    vreme24El.textContent = tenis[23].vreme24
+    domacin24El.textContent = tenis[23].domacin24
+    gost24El.textContent = tenis[23].gost24
+    dvadesetcetvrtiPar1.textContent = tenis[23].igra1
+    dvadesetcetvrtiParX.textContent = tenis[23].igraX
+    dvadesetcetvrtiPar2.textContent = tenis[23].igra2
+    // TENIS PAR 25
+    vreme25El.textContent = tenis[24].vreme25
+    domacin25El.textContent = tenis[24].domacin25
+    gost25El.textContent = tenis[24].gost25
+    dvadesetpetiPar1.textContent = tenis[24].igra1
+    dvadesetpetiParX.textContent = tenis[24].igraX
+    dvadesetpetiPar2.textContent = tenis[24].igra2
+    // TENIS PAR 26
+    vreme26El.textContent = tenis[25].vreme26
+    domacin26El.textContent = tenis[25].domacin26
+    gost26El.textContent = kosarka[25].gost26
+    dvadesetsestiPar1.textContent = tenis[25].igra1
+    dvadesetsestiParX.textContent = tenis[25].igraX
+    dvadesetsestiPar2.textContent = tenis[25].igra2
+    // TENIS PAR 27
+    vreme27El.textContent = tenis[26].vreme27
+    domacin27El.textContent = tenis[26].domacin27
+    gost27El.textContent = tenis[26].gost27
+    dvadesetsedmiPar1.textContent = tenis[26].igra1
+    dvadesetsedmiParX.textContent = tenis[26].igraX
+    dvadesetsedmiPar2.textContent = tenis[26].igra2
+    // TENIS PAR 28
+    vreme28El.textContent = tenis[27].vreme28
+    domacin28El.textContent = tenis[27].domacin28
+    gost28El.textContent = tenis[27].gost28
+    dvadesetosmiPar1.textContent = tenis[27].igra1
+    dvadesetosmiParX.textContent = tenis[27].igraX
+    dvadesetosmiPar2.textContent = tenis[27].igra2
+    // TENIS PAR 29
+    vreme29El.textContent = tenis[28].vreme29
+    domacin29El.textContent = tenis[28].domacin29
+    gost29El.textContent = tenis[28].gost29
+    dvadesetdevetiPar1.textContent = tenis[28].igra1
+    dvadesetdevetiParX.textContent = tenis[28].igraX
+    dvadesetdevetiPar2.textContent = tenis[28].igra2
+    // TENIS PAR 30
+    vreme30El.textContent = tenis[29].vreme30
+    domacin30El.textContent = tenis[29].domacin30
+    gost30El.textContent = tenis[29].gost30
+    tridesetiPar1.textContent = tenis[29].igra1
+    tridesetiParX.textContent = tenis[29].igraX
+    tridesetiPar2.textContent = tenis[29].igra2
+    // TENIS PAR 31
+    vreme31El.textContent = tenis[30].vreme31
+    domacin31El.textContent = tenis[30].domacin31
+    gost31El.textContent = tenis[30].gost31
+    tridesetprviPar1.textContent = tenis[30].igra1
+    tridesetprviParX.textContent = tenis[30].igraX
+    tridesetprviPar2.textContent = tenis[30].igra2
+    // TENIS PAR 32
+    vreme32El.textContent = tenis[31].vreme32
+    domacin32El.textContent = tenis[31].domacin32
+    gost32El.textContent = tenis[31].gost32
+    tridesetdrugiPar1.textContent = tenis[31].igra1
+    tridesetdrugiParX.textContent = tenis[31].igraX
+    tridesetdrugiPar2.textContent = tenis[31].igra2
+    // TENIS PAR 33
+    vreme33El.textContent = tenis[32].vreme33
+    domacin33El.textContent = tenis[32].domacin33
+    gost33El.textContent = tenis[32].gost33
+    tridesettreciPar1.textContent = tenis[32].igra1
+    tridesettreciParX.textContent = tenis[32].igraX
+    tridesettreciPar2.textContent = tenis[32].igra2
+    // TENIS PAR 34
+    vreme34El.textContent = tenis[33].vreme34
+    domacin34El.textContent = tenis[33].domacin34
+    gost34El.textContent = tenis[33].gost34
+    tridesetcetvrtiPar1.textContent = tenis[33].igra1
+    tridesetcetvrtiParX.textContent = tenis[33].igraX
+    tridesetcetvrtiPar2.textContent = tenis[33].igra2
+    // TENIS PAR 35
+    vreme35El.textContent = tenis[34].vreme35
+    domacin35El.textContent = tenis[34].domacin35
+    gost35El.textContent = tenis[34].gost35
+    tridesetpetiPar1.textContent = tenis[34].igra1
+    tridesetpetiPar2.textContent = tenis[34].igra2
+    // TENIS PAR 36
+    vreme36El.textContent = tenis[35].vreme36
+    domacin36El.textContent = tenis[35].domacin36
+    gost36El.textContent = tenis[35].gost36
+    tridesetsestiPar1.textContent = tenis[35].igra1
+    tridesetsestiParX.textContent = tenis[35].igraX
+    tridesetsestiPar2.textContent = tenis[35].igra2
+    // TENIS PAR 37
+    vreme37El.textContent = tenis[36].vreme37
+    domacin37El.textContent = tenis[36].domacin37
+    gost37El.textContent = tenis[36].gost37
+    tridesetsedmiPar1.textContent = tenis[36].igra1
+    tridesetsedmiParX.textContent = tenis[36].igraX
+    tridesetsedmiPar2.textContent = tenis[36].igra2
+    // TENIS PAR 38
+    vreme38El.textContent = tenis[37].vreme38
+    domacin38El.textContent = tenis[37].domacin38
+    gost38El.textContent = tenis[37].gost38
+    tridesetosmiPar1.textContent = tenis[37].igra1
+    tridesetosmiParX.textContent = tenis[37].igraX
+    tridesetosmiPar2.textContent = tenis[37].igra2
+    // TENIS PAR 39
+    vreme39El.textContent = tenis[38].vreme39
+    domacin39El.textContent = tenis[38].domacin39
+    gost39El.textContent = tenis[38].gost39
+    tridesetdevetiPar1.textContent = tenis[38].igra1
+    tridesetdevetiParX.textContent = tenis[38].igraX
+    tridesetdevetiPar2.textContent = tenis[38].igra2
+    // TENIS PAR 40
+    vreme40El.textContent = tenis[39].vreme40
+    domacin40El.textContent = tenis[39].domacin40
+    gost40El.textContent = tenis[39].gost40
+    cetrdesetiPar1.textContent = tenis[39].igra1
+    cetrdesetiParX.textContent = tenis[39].igraX
+    cetrdesetiPar2.textContent = tenis[39].igra2
+    // TENIS PAR 41
+    vreme41El.textContent = tenis[40].vreme41
+    domacin41El.textContent = tenis[40].domacin41
+    gost41El.textContent = tenis[40].gost41
+    cetrdesetprviPar1.textContent = tenis[40].igra1
+    cetrdesetprviParX.textContent = tenis[40].igraX
+    cetrdesetprviPar2.textContent = tenis[40].igra2
+    // TENIS PAR 42
+    vreme42El.textContent = tenis[41].vreme42
+    domacin42El.textContent = tenis[41].domacin42
+    gost42El.textContent = tenis[41].gost42
+    cetrdesetdrugiPar1.textContent = tenis[41].igra1
+    cetrdesetdrugiParX.textContent = tenis[41].igraX
+    cetrdesetdrugiPar2.textContent = tenis[41].igra2
+    // TENIS PAR 43
+    vreme43El.textContent = tenis[42].vreme43
+    domacin43El.textContent = tenis[42].domacin43
+    gost43El.textContent = tenis[42].gost43
+    cetrdesettreciPar1.textContent = tenis[42].igra1
+    cetrdesettreciParX.textContent = tenis[42].igraX
+    cetrdesettreciPar2.textContent = tenis[42].igra2
+    // TENIS PAR 44
+    vreme44El.textContent = tenis[43].vreme44
+    domacin44El.textContent = tenis[43].domacin44
+    gost44El.textContent = tenis[43].gost44
+    cetrdesetcetvrtiPar1.textContent = tenis[43].igra1
+    cetrdesetcetvrtiParX.textContent = tenis[43].igraX
+    cetrdesetcetvrtiPar2.textContent = tenis[43].igra2
+    // TENIS PAR 45
+    vreme45El.textContent = tenis[44].vreme45
+    domacin45El.textContent = tenis[44].domacin45
+    gost45El.textContent = tenis[44].gost45
+    cetrdesetpetiPar1.textContent = tenis[44].igra1
+    cetrdesetpetiParX.textContent = tenis[44].igraX
+    cetrdesetpetiPar2.textContent = tenis[44].igra2
+    // TENIS PAR 46
+    vreme46El.textContent = tenis[45].vreme46
+    domacin46El.textContent = tenis[45].domacin46
+    gost46El.textContent = tenis[45].gost46
+    cetrdesetsestiPar1.textContent = tenis[45].igra1
+    cetrdesetsestiParX.textContent = tenis[45].igraX
+    cetrdesetsestiPar2.textContent = tenis[45].igra2
+    // TENIS PAR 47
+    vreme47El.textContent = tenis[46].vreme47
+    domacin47El.textContent = tenis[46].domacin47
+    gost47El.textContent = tenis[46].gost47
+    cetrdesetsedmiPar1.textContent = tenis[46].igra1
+    cetrdesetsedmiParX.textContent = tenis[46].igraX
+    cetrdesetsedmiPar2.textContent = tenis[46].igra2
+    // TENIS PAR 48
+    vreme48El.textContent = tenis[47].vreme48
+    domacin48El.textContent = tenis[47].domacin48
+    gost48El.textContent = tenis[47].gost48
+    cetrdesetosmiPar1.textContent = tenis[47].igra1
+    cetrdesetosmiParX.textContent = tenis[47].igraX
+    cetrdesetosmiPar2.textContent = tenis[47].igra2
+    // TENIS PAR 49
+    vreme49El.textContent = tenis[48].vreme49
+    domacin49El.textContent = tenis[48].domacin49
+    gost49El.textContent = tenis[48].gost49
+    cetrdesetdevetiPar1.textContent = tenis[48].igra1
+    cetrdesetdevetiParX.textContent = tenis[48].igraX
+    cetrdesetdevetiPar2.textContent = tenis[48].igra2
+    // TENIS PAR 50
+    vreme50El.textContent = tenis[49].vreme50
+    domacin50El.textContent = tenis[49].domacin50
+    gost50El.textContent = tenis[49].gost50
+    drugiPar1.textContent = tenis[49].igra1
+    drugiParX.textContent = tenis[49].igraX
+    drugiPar2.textContent = tenis[49].igra2
+    // TENIS PAR 51
+    vreme51El.textContent = tenis[50].vreme51
+    domacin51El.textContent = tenis[50].domacin51
+    gost51El.textContent = tenis[50].gost51
+    pedesetprviPar1.textContent = tenis[50].igra1
+    pedesetprviParX.textContent = tenis[50].igraX
+    pedesetprviPar2.textContent = tenis[50].igra2
+    // TENIS PAR 52
+    vreme52El.textContent = tenis[51].vreme52
+    domacin52El.textContent = tenis[51].domacin52
+    gost52El.textContent = tenis[51].gost52
+    pedesetdrugiPar1.textContent = tenis[51].igra1
+    pedesetdrugiParX.textContent = tenis[51].igraX
+    pedesetdrugiPar2.textContent = tenis[51].igra2
+    // TENIS PAR 53
+    vreme53El.textContent = tenis[52].vreme53
+    domacin53El.textContent = tenis[52].domacin53
+    gost53El.textContent = tenis[52].gost53
+    pedesettreciPar1.textContent = tenis[52].igra1
+    pedesettreciParX.textContent = tenis[52].igraX
+    pedesettreciPar2.textContent = tenis[52].igra2
+    // TENIS PAR 54
+    vreme54El.textContent = tenis[53].vreme54
+    domacin54El.textContent = tenis[53].domacin54
+    gost54El.textContent = tenis[53].gost54
+    pedesetcetvrtiPar1.textContent = tenis[53].igra1
+    pedesetcetvrtiParX.textContent = tenis[53].igraX
+    pedesetcetvrtiPar2.textContent = tenis[53].igra2
+    // TENIS PAR 55
+    vreme55El.textContent = tenis[54].vreme55
+    domacin55El.textContent = tenis[54].domacin55
+    gost55El.textContent = tenis[54].gost55
+    pedesetpetiPar1.textContent = tenis[54].igra1
+    pedesetpetiParX.textContent = tenis[54].igraX
+    pedesetpetiPar2.textContent = tenis[54].igra2
+    // TENIS PAR 56
+    vreme56El.textContent = tenis[55].vreme56
+    domacin56El.textContent = tenis[55].domacin56
+    gost56El.textContent = tenis[55].gost56
+    pedesetsestiPar1.textContent = tenis[55].igra1
+    pedesetsestiParX.textContent = tenis[55].igraX
+    pedesetsestiPar2.textContent = tenis[55].igra2
 
     FdbBtn.classList.remove('active-btn')
     FdbBtn.style.border = "0px solid #40A3FF"
@@ -3942,8 +4661,8 @@ let hokej = [
         vreme6: "Sre. 06:00"
     },
     {   // HOKEJ PAR 7
-        domacin7: "Barcelona",
-        gost7: "Partizan",
+        domacin7: "Carolina Hurricanes",
+        gost7: "Columbus Blue Jackets",
         igra1: 2.15,
         igraX: 9.40,
         igra2: 3.45,
@@ -3956,6 +4675,390 @@ let hokej = [
         igraX: 8.60,
         igra2: 2.55,
         vreme8: "Sre. 08:00"
+    },
+    {   // HOKEJ PAR 9
+        domacin9: "New Jersey Devils",
+        gost9: "New York Islanders",
+        igra1: 1.25,
+        igraX: 8.60,
+        igra2: 4.55,
+        vreme9: "Sub. 16:00"
+    },
+    {   // HOKEJ PAR 10
+        domacin10: "New York Rangers",
+        gost10: "Philadelphia Flyers",
+        igra1: 2.05,
+        igraX: 9.30,
+        igra2: 2.85,
+        vreme10: "Sub. 18:00"
+    },
+    {   // HOKEJ PAR 11
+        domacin11: "Pittsburgh Penguins",
+        gost11: "Washington Capitals",
+        igra1: 3.25,
+        igraX: 11.10,
+        igra2: 1.85,
+        vreme11: "Uto. 19:00"
+    },
+    {   // HOKEJ PAR 12
+        domacin12: "Boston Bruins",
+        gost12: "Buffalo Sabres",
+        igra1: 5.25,
+        igraX: 8.50,
+        igra2: 1.45,
+        vreme12: "Pet. 00:00"
+    },
+    {   // HOKEJ PAR 13
+        domacin13: "Detroit Red Wings",
+        gost13: "Florida Panthers",
+        igra1: 2.05,
+        igraX: 12.20,
+        igra2: 2.85,
+        vreme13: "Sre. 16:00"
+    },
+    {   // HOKEJ PAR 14
+        domacin14: "Montréal Canadiens",
+        gost14: "Ottawa Senators",
+        igra1: 3.15,
+        igraX: 10.40,
+        igra2: 1.65,
+        vreme14: "Pon. 19:00"
+    },
+    {   // HOKEJ PAR 15
+        domacin15: "Tampa Bay Lightning",
+        gost15: "Toronto Maple Leafs",
+        igra1: 1.95,
+        igraX: 8.90,
+        igra2: 2.25,
+        vreme15: "Pon. 16:00"
+    },
+    {   // HOKEJ PAR 16
+        domacin16: "Arizona Coyotes",
+        gost16: "Chicago Blackhawks",
+        igra1: 2.15,
+        igraX: 11.40,
+        igra2: 2.25,
+        vreme16: "Cet. 19:00"
+    },
+    {   // HOKEJ PAR 17
+        domacin17: "Colorado Avalanche",
+        gost17: "Dallas Stars",
+        igra1: 2.45,
+        igraX: 11.40,
+        igra2: 2.15,
+        vreme17: "Sre. 01:00"
+    },
+    {   // HOKEJ PAR 18
+        domacin18: "Minnesota Wild",
+        gost18: "Nashville Predators",
+        igra1: 3.10,
+        igraX: 9.60,
+        igra2: 2.10,
+        vreme18: "Ned. 01:45"
+    },
+    {   // HOKEJ PAR 19
+        domacin19: "St. Louis Blues",
+        gost19: "Winnipeg Jets",
+        igra1: 2.45,
+        igraX: 8.90,
+        igra2: 2.15,
+        vreme19: "Ned. 02:00"
+    },
+    {   // HOKEJ PAR 20
+        domacin20: "Anaheim Ducks",
+        gost20: "Calgary Flames",
+        igra1: 2.80,
+        igraX: 12.40,
+        igra2: 2.15,
+        vreme20: "Sub. 06:00"
+    },
+    {   // HOKEJ PAR 21
+        domacin21: "Edmonton Oilers",
+        gost21: "Los Angeles Kings",
+        igra1: 1.50,
+        igraX: 8.80,
+        igra2: 2.55,
+        vreme21: "Ned: 05:00"
+    },
+    {   // HOKEJ PAR 22
+        domacin22: "San Jose Sharks",
+        gost22: "Seattle Kraken",
+        igra1: 1.50,
+        igraX: 8.10,
+        igra2: 3.10,
+        vreme22: "Sub: 03:00"
+    },
+    {   // HOKEJ PAR 23
+        domacin23: "Vancouver Canucks",
+        gost23: "Vegas Golden Knights",
+        igra1: 2.20,
+        igraX: 9.40,
+        igra2: 1.95,
+        vreme23: "Sub: 04:00"
+    },
+    {   // HOKEJ PAR 24
+        domacin24: "San Jose Sharks",
+        gost24: "Nashville Predators",
+        igra1: 1.50,
+        igraX: 6.90,
+        igra2: 3.15,
+        vreme24: "Sub: 08:00"
+    },
+    {   // HOKEJ PAR 25
+        domacin25: "Buffalo Bills",
+        gost25: "Miami Dolphins",
+        igra1: 1.65,
+        igraX: 4.80,
+        igra2: 2.85,
+        vreme25: "Cet. 03:00"
+    },
+    {   // HOKEJ PAR 26
+        domacin26: "New England",
+        gost26: "New York Jets",
+        igra1: 5.25,
+        igraX: 9.40,
+        igra2: 1.45,
+        vreme26: "Cet. 03:00"
+    },
+    {   // HOKEJ PAR 27
+        domacin27: "Baltimore Ravens",
+        gost27: "Cincinnati Bengals",
+        igra1: 2.05,
+        igraX: 7.70,
+        igra2: 3.15,
+        vreme27: "Cet. 03:00"
+    },
+    {   // HOKEJ PAR 28
+        domacin28: "Cleveland Browns",
+        gost28: "Pittsburgh Steelers",
+        igra1: 2.25,
+        igraX: 6.10,
+        igra2: 3.05,
+        vreme28: "Cet. 03:00"
+    },
+    {   // HOKEJ PAR 29
+        domacin29: "Houston Texans",
+        gost29: "Indianapolis Colts",
+        igra1: 2.45,
+        igraX: 8.10,
+        igra2: 2.85,
+        vreme29: "Sre. 06:00"
+    },
+    {   // HOKEJ PAR 30
+        domacin30: "Jacksonville Jaguars",
+        gost30: "Tennessee Titans",
+        igra1: 1.95,
+        igraX: 6.60,
+        igra2: 2.95,
+        vreme30: "Sre. 06:00"
+    },
+    {   // HOKEJ PAR 31
+        domacin31: "Carolina Hurricanes",
+        gost31: "Columbus Blue Jackets",
+        igra1: 2.15,
+        igraX: 9.40,
+        igra2: 3.45,
+        vreme31: "Sre. 06:00"
+    },
+    {   // HOKEJ PAR 32
+        domacin32: "Denver Broncos",
+        gost32: "Kansas City Chiefs",
+        igra1: 2.55,
+        igraX: 8.60,
+        igra2: 2.55,
+        vreme32: "Sre. 08:00"
+    },
+    {   // HOKEJ PAR 33
+        domacin33: "New Jersey Devils",
+        gost33: "New York Islanders",
+        igra1: 1.25,
+        igraX: 8.60,
+        igra2: 4.55,
+        vreme33: "Sub. 16:00"
+    },
+    {   // HOKEJ PAR 34
+        domacin34: "New York Rangers",
+        gost34: "Philadelphia Flyers",
+        igra1: 2.05,
+        igraX: 9.30,
+        igra2: 2.85,
+        vreme34: "Sub. 18:00"
+    },
+    {   // HOKEJ PAR 35
+        domacin35: "Pittsburgh Penguins",
+        gost35: "Washington Capitals",
+        igra1: 3.25,
+        igraX: 11.10,
+        igra2: 1.85,
+        vreme35: "Uto. 19:00"
+    },
+    {   // HOKEJ PAR 36
+        domacin36: "Boston Bruins",
+        gost36: "Buffalo Sabres",
+        igra1: 5.25,
+        igraX: 8.50,
+        igra2: 1.45,
+        vreme36: "Pet. 00:00"
+    },
+    {   // HOKEJ PAR 37
+        domacin37: "Detroit Red Wings",
+        gost37: "Florida Panthers",
+        igra1: 2.05,
+        igraX: 12.20,
+        igra2: 2.85,
+        vreme37: "Sre. 16:00"
+    },
+    {   // HOKEJ PAR 38
+        domacin38: "Montréal Canadiens",
+        gost38: "Ottawa Senators",
+        igra1: 3.15,
+        igraX: 10.40,
+        igra2: 1.65,
+        vreme38: "Pon. 19:00"
+    },
+    {   // HOKEJ PAR 39
+        domacin39: "Tampa Bay Lightning",
+        gost39: "Toronto Maple Leafs",
+        igra1: 1.95,
+        igraX: 8.90,
+        igra2: 2.25,
+        vreme39: "Pon. 16:00"
+    },
+    {   // HOKEJ PAR 40
+        domacin40: "Colorado Avalanche",
+        gost40: "Dallas Stars",
+        igra1: 2.45,
+        igraX: 11.40,
+        igra2: 2.15,
+        vreme40: "Sre. 01:00"
+    },
+    {   // HOKEJ PAR 41
+        domacin41: "Minnesota Wild",
+        gost41: "Nashville Predators",
+        igra1: 3.10,
+        igraX: 9.60,
+        igra2: 2.10,
+        vreme41: "Ned. 01:45"
+    },
+    {   // HOKEJ PAR 42
+        domacin42: "St. Louis Blues",
+        gost42: "Winnipeg Jets",
+        igra1: 2.45,
+        igraX: 8.90,
+        igra2: 2.15,
+        vreme42: "Ned. 02:00"
+    },
+    {   // HOKEJ PAR 43
+        domacin43: "Anaheim Ducks",
+        gost43: "Calgary Flames",
+        igra1: 2.80,
+        igraX: 12.40,
+        igra2: 2.15,
+        vreme43: "Sub. 06:00"
+    },
+    {   // HOKEJ PAR 44
+        domacin44: "Edmonton Oilers",
+        gost44: "Los Angeles Kings",
+        igra1: 1.50,
+        igraX: 8.80,
+        igra2: 2.55,
+        vreme44: "Ned: 05:00"
+    },
+    {   // HOKEJ PAR 45
+        domacin45: "San Jose Sharks",
+        gost45: "Seattle Kraken",
+        igra1: 1.50,
+        igraX: 8.10,
+        igra2: 3.10,
+        vreme45: "Sub: 03:00"
+    },
+    {   // HOKEJ PAR 46
+        domacin46: "Vancouver Canucks",
+        gost46: "Vegas Golden Knights",
+        igra1: 2.20,
+        igraX: 9.40,
+        igra2: 1.95,
+        vreme46: "Sub: 04:00"
+    },
+    {   // HOKEJ PAR 47
+        domacin47: "San Jose Sharks",
+        gost47: "Nashville Predators",
+        igra1: 1.50,
+        igraX: 6.90,
+        igra2: 3.15,
+        vreme47: "Sub: 08:00"
+    },
+    {   // HOKEJ PAR 48
+        domacin48: "Buffalo Bills",
+        gost48: "Miami Dolphins",
+        igra1: 1.65,
+        igraX: 4.80,
+        igra2: 2.85,
+        vreme48: "Cet. 03:00"
+    },
+    {   // HOKEJ PAR 49
+        domacin49: "New England",
+        gost49: "New York Jets",
+        igra1: 5.25,
+        igraX: 9.40,
+        igra2: 1.45,
+        vreme49: "Cet. 03:00"
+    },
+    {   // HOKEJ PAR 50
+        domacin50: "Baltimore Ravens",
+        gost50: "Cincinnati Bengals",
+        igra1: 2.05,
+        igraX: 7.70,
+        igra2: 3.15,
+        vreme50: "Cet. 03:00"
+    },
+    {   // HOKEJ PAR 51
+        domacin51: "Cleveland Browns",
+        gost51: "Pittsburgh Steelers",
+        igra1: 2.25,
+        igraX: 6.10,
+        igra2: 3.05,
+        vreme51: "Cet. 03:00"
+    },
+    {   // HOKEJ PAR 52
+        domacin52: "Houston Texans",
+        gost52: "Indianapolis Colts",
+        igra1: 2.45,
+        igraX: 8.10,
+        igra2: 2.85,
+        vreme52: "Sre. 06:00"
+    },
+    {   // HOKEJ PAR 53
+        domacin53: "Jacksonville Jaguars",
+        gost53: "Tennessee Titans",
+        igra1: 1.95,
+        igraX: 6.60,
+        igra2: 2.95,
+        vreme53: "Sre. 06:00"
+    },
+    {   // HOKEJ PAR 54
+        domacin54: "Carolina Hurricanes",
+        gost54: "Columbus Blue Jackets",
+        igra1: 2.15,
+        igraX: 9.40,
+        igra2: 3.45,
+        vreme54: "Sre. 06:00"
+    },
+    {   // HOKEJ PAR 55
+        domacin55: "Denver Broncos",
+        gost55: "Kansas City Chiefs",
+        igra1: 2.55,
+        igraX: 8.60,
+        igra2: 2.55,
+        vreme55: "Sre. 08:00"
+    },
+    {   // HOKEJ PAR 56
+        domacin56: "New Jersey Devils",
+        gost56: "New York Islanders",
+        igra1: 1.25,
+        igraX: 8.60,
+        igra2: 4.55,
+        vreme56: "Sub. 16:00"
     },
 ]  
 
@@ -4017,6 +5120,342 @@ function hokejFunction() {
     osmiPar1.textContent = hokej[7].igra1
     osmiParX.textContent = hokej[7].igraX
     osmiPar2.textContent = hokej[7].igra2
+    // HOKEJ PAR 9
+    vreme9El.textContent = hokej[8].vreme9
+    domacin9El.textContent = hokej[8].domacin9
+    gost9El.textContent = hokej[8].gost9
+    devetiPar1.textContent = hokej[8].igra1
+    devetiParX.textContent = hokej[8].igraX
+    devetiPar2.textContent = hokej[8].igra2
+    // HOKEJ PAR 10
+    vreme10El.textContent = hokej[9].vreme10
+    domacin10El.textContent = hokej[9].domacin10
+    gost10El.textContent = hokej[9].gost10
+    desetiPar1.textContent = hokej[9].igra1
+    desetiParX.textContent = hokej[9].igraX
+    desetiPar2.textContent = hokej[9].igra2
+    // HOKEJ PAR 11
+    vreme11El.textContent = hokej[10].vreme11
+    domacin11El.textContent = hokej[10].domacin11
+    gost11El.textContent = hokej[10].gost11
+    desetiPar1.textContent = hokej[10].igra1
+    desetiParX.textContent = hokej[10].igraX
+    desetiPar2.textContent = hokej[10].igra2
+    // HOKEJ PAR 12
+    vreme12El.textContent = hokej[11].vreme12
+    domacin12El.textContent = hokej[11].domacin12
+    gost12El.textContent = hokej[11].gost12
+    dvanaestiPar1.textContent = hokej[11].igra1
+    dvanaestiParX.textContent = hokej[11].igraX
+    dvanaestiPar2.textContent = hokej[11].igra2
+    // HOKEJ PAR 13
+    vreme13El.textContent = hokej[12].vreme13
+    domacin13El.textContent = hokej[12].domacin13
+    gost13El.textContent = hokej[12].gost13
+    trinaestiPar1.textContent = hokej[12].igra1
+    trinaestiParX.textContent = hokej[12].igraX
+    trinaestiPar2.textContent = hokej[12].igra2
+    // HOKEJ PAR 14
+    vreme14El.textContent = hokej[13].vreme14
+    domacin14El.textContent = hokej[13].domacin14
+    gost14El.textContent = hokej[13].gost14
+    cetrnaestiPar1.textContent = hokej[13].igra1
+    cetrnaestiParX.textContent = hokej[13].igraX
+    cetrnaestiPar2.textContent = hokej[13].igra2
+    // HOKEJ PAR 15
+    vreme15El.textContent = hokej[14].vreme15
+    domacin15El.textContent = hokej[14].domacin15
+    gost15El.textContent = hokej[14].gost15
+    petnaestiPar1.textContent = hokej[14].igra1
+    petnaestiParX.textContent = hokej[14].igraX
+    petnaestiPar2.textContent = hokej[14].igra2
+    // HOKEJ PAR 16
+    vreme16El.textContent = hokej[15].vreme16
+    domacin16El.textContent = hokej[15].domacin16
+    gost16El.textContent = hokej[15].gost16
+    sesnaestiPar1.textContent = hokej[15].igra1
+    sesnaestiParX.textContent = hokej[15].igraX
+    sesnaestiPar2.textContent = hokej[15].igra2
+    // HOKEJ PAR 17
+    vreme17El.textContent = hokej[16].vreme17
+    domacin17El.textContent = hokej[16].domacin17
+    gost17El.textContent = hokej[16].gost17
+    sedamnaestiPar1.textContent = hokej[16].igra1
+    sedamnaestiParX.textContent = hokej[16].igraX
+    sedamnaestiPar2.textContent = hokej[16].igra2
+    // HOKEJ PAR 18
+    vreme18El.textContent = hokej[17].vreme18
+    domacin18El.textContent = hokej[17].domacin18
+    gost18El.textContent = hokej[17].gost18
+    osamnaestiPar1.textContent = hokej[17].igra1
+    osamnaestiParX.textContent = hokej[17].igraX
+    osamnaestiPar2.textContent = hokej[17].igra2
+    // HOKEJ PAR 19
+    vreme19El.textContent = fudbal[18].vreme19
+    domacin19El.textContent = fudbal[18].domacin19
+    gost19El.textContent = fudbal[18].gost19
+    devetnaestiPar1.textContent = fudbal[18].igra1
+    devetnaestiParX.textContent = fudbal[18].igraX
+    devetnaestiPar2.textContent = fudbal[18].igra2
+    // HOKEJ PAR 20
+    vreme20El.textContent = hokej[19].vreme20
+    domacin20El.textContent = hokej[19].domacin20
+    gost20El.textContent = hokej[19].gost20
+    dvadesetiPar1.textContent = hokej[19].igra1
+    dvadesetiParX.textContent = hokej[19].igraX
+    dvadesetiPar2.textContent = hokej[19].igra2
+    // HOKEJ PAR 21
+    vreme21El.textContent = hokej[20].vreme21
+    domacin21El.textContent = hokej[20].domacin21
+    gost21El.textContent = hokej[20].gost21
+    dvadesetprviPar1.textContent = hokej[20].igra1
+    dvadesetprviParX.textContent = hokej[20].igraX
+    dvadesetprviPar2.textContent = hokej[20].igra2
+    // HOKEJ PAR 22
+    vreme22El.textContent = hokej[21].vreme22
+    domacin22El.textContent = hokej[21].domacin22
+    gost22El.textContent = hokej[21].gost22
+    dvadesetdrugiPar1.textContent = hokej[21].igra1
+    dvadesetdrugiParX.textContent = hokej[21].igraX
+    dvadesetdrugiPar2.textContent = hokej[21].igra2
+    // HOKEJ PAR 23
+    vreme23El.textContent = hokej[22].vreme23
+    domacin23El.textContent = hokej[22].domacin23
+    gost23El.textContent = hokej[22].gost23
+    dvadesettreciPar1.textContent = hokej[22].igra1
+    dvadesettreciParX.textContent = hokej[22].igraX
+    dvadesettreciPar2.textContent = hokej[22].igra2
+    // HOKEJ PAR 24
+    vreme24El.textContent = hokej[23].vreme24
+    domacin24El.textContent = hokej[23].domacin24
+    gost24El.textContent = hokej[23].gost24
+    dvadesetcetvrtiPar1.textContent = hokej[23].igra1
+    dvadesetcetvrtiParX.textContent = hokej[23].igraX
+    dvadesetcetvrtiPar2.textContent = hokej[23].igra2
+    // HOKEJ PAR 25
+    vreme26El.textContent = hokej[25].vreme26
+    domacin26El.textContent = hokej[25].domacin26
+    gost26El.textContent = hokej[25].gost26
+    dvadesetsestiPar1.textContent = hokej[25].igra1
+    dvadesetsestiParX.textContent = hokej[25].igraX
+    dvadesetsestiPar2.textContent = hokej[25].igra2
+    // HOKEJ PAR 26
+    vreme26El.textContent = hokej[25].vreme26
+    domacin26El.textContent = hokej[25].domacin26
+    gost26El.textContent = hokej[25].gost26
+    dvadesetsestiPar1.textContent = hokej[25].igra1
+    dvadesetsestiParX.textContent = hokej[25].igraX
+    dvadesetsestiPar2.textContent = hokej[25].igra2
+    // HOKEJ PAR 27
+    vreme27El.textContent = hokej[26].vreme27
+    domacin27El.textContent = hokej[26].domacin27
+    gost27El.textContent = hokej[26].gost27
+    dvadesetsedmiPar1.textContent = hokej[26].igra1
+    dvadesetsedmiParX.textContent = hokej[26].igraX
+    dvadesetsedmiPar2.textContent = hokej[26].igra2
+    // HOKEJ PAR 28
+    vreme28El.textContent = hokej[27].vreme28
+    domacin28El.textContent = hokej[27].domacin28
+    gost28El.textContent = hokej[27].gost28
+    dvadesetosmiPar1.textContent = hokej[27].igra1
+    dvadesetosmiParX.textContent = hokej[27].igraX
+    dvadesetosmiPar2.textContent = hokej[27].igra2
+    // HOKEJ PAR 29
+    vreme29El.textContent = hokej[28].vreme29
+    domacin29El.textContent = hokej[28].domacin29
+    gost29El.textContent = hokej[28].gost29
+    dvadesetdevetiPar1.textContent = hokej[28].igra1
+    dvadesetdevetiParX.textContent = hokej[28].igraX
+    dvadesetdevetiPar2.textContent = hokej[28].igra2
+    // HOKEJ PAR 30
+    vreme30El.textContent = hokej[29].vreme30
+    domacin30El.textContent = hokej[29].domacin30
+    gost30El.textContent = hokej[29].gost30
+    tridesetiPar1.textContent = hokej[29].igra1
+    tridesetiParX.textContent = hokej[29].igraX
+    tridesetiPar2.textContent = hokej[29].igra2
+    // HOKEJ PAR 31
+    vreme31El.textContent = hokej[30].vreme31
+    domacin31El.textContent = hokej[30].domacin31
+    gost31El.textContent = hokej[30].gost31
+    tridesetprviPar1.textContent = hokej[30].igra1
+    tridesetprviParX.textContent = hokej[30].igraX
+    tridesetprviPar2.textContent = hokej[30].igra2
+    // HOKEJ PAR 32
+    vreme32El.textContent = hokej[31].vreme32
+    domacin32El.textContent = hokej[31].domacin32
+    gost32El.textContent = hokej[31].gost32
+    tridesetdrugiPar1.textContent = hokej[31].igra1
+    tridesetdrugiParX.textContent = hokej[31].igraX
+    tridesetdrugiPar2.textContent = hokej[31].igra2
+    // HOKEJ PAR 33
+    vreme33El.textContent = hokej[32].vreme33
+    domacin33El.textContent = hokej[32].domacin33
+    gost33El.textContent = hokej[32].gost33
+    tridesettreciPar1.textContent = hokej[32].igra1
+    tridesettreciParX.textContent = hokej[32].igraX
+    tridesettreciPar2.textContent = hokej[32].igra2
+    // HOKEJ PAR 34
+    vreme34El.textContent = hokej[33].vreme34
+    domacin34El.textContent = hokej[33].domacin34
+    gost34El.textContent = hokej[33].gost34
+    tridesetcetvrtiPar1.textContent = hokej[33].igra1
+    tridesetcetvrtiParX.textContent = hokej[33].igraX
+    tridesetcetvrtiPar2.textContent = hokej[33].igra2
+    // HOKEJ PAR 35
+    vreme35El.textContent = hokej[34].vreme35
+    domacin35El.textContent = hokej[34].domacin35
+    gost35El.textContent = hokej[34].gost35
+    tridesetpetiPar1.textContent = hokej[34].igra1
+    tridesetpetiParX.textContent = hokej[34].igraX
+    tridesetpetiPar2.textContent = hokej[34].igra2
+    // HOKEJ PAR 36
+    vreme36El.textContent = hokej[35].vreme36
+    domacin36El.textContent = hokej[35].domacin36
+    gost36El.textContent = hokej[35].gost36
+    tridesetsestiPar1.textContent = hokej[35].igra1
+    tridesetsestiParX.textContent = hokej[35].igraX
+    tridesetsestiPar2.textContent = hokej[35].igra2
+    // HOKEJ PAR 37
+    vreme37El.textContent = hokej[36].vreme37
+    domacin37El.textContent = hokej[36].domacin37
+    gost37El.textContent = hokej[36].gost37
+    tridesetsedmiPar1.textContent = hokej[36].igra1
+    tridesetsedmiParX.textContent = hokej[36].igraX
+    tridesetsedmiPar2.textContent = hokej[36].igra2
+    // HOKEJ PAR 38
+    vreme38El.textContent = hokej[37].vreme38
+    domacin38El.textContent = hokej[37].domacin38
+    gost38El.textContent = hokej[37].gost38
+    tridesetosmiPar1.textContent = hokej[37].igra1
+    tridesetosmiParX.textContent = hokej[37].igraX
+    tridesetosmiPar2.textContent = hokej[37].igra2
+    // HOKEJ PAR 39
+    vreme39El.textContent = hokej[38].vreme39
+    domacin39El.textContent = hokej[38].domacin39
+    gost39El.textContent = hokej[38].gost39
+    tridesetdevetiPar1.textContent = hokej[38].igra1
+    tridesetdevetiParX.textContent = hokej[38].igraX
+    tridesetdevetiPar2.textContent = hokej[38].igra2
+    // HOKEJ PAR 40
+    vreme40El.textContent = hokej[39].vreme40
+    domacin40El.textContent = hokej[39].domacin40
+    gost40El.textContent = hokej[39].gost40
+    cetrdesetiPar1.textContent = hokej[39].igra1
+    cetrdesetiParX.textContent = hokej[39].igraX
+    cetrdesetiPar2.textContent = hokej[39].igra2
+    // HOKEJ PAR 41
+    vreme41El.textContent = hokej[40].vreme41
+    domacin41El.textContent = hokej[40].domacin41
+    gost41El.textContent = hokej[40].gost41
+    cetrdesetprviPar1.textContent = hokej[40].igra1
+    cetrdesetprviParX.textContent = hokej[40].igraX
+    cetrdesetprviPar2.textContent = hokej[40].igra2
+    // HOKEJ PAR 42
+    vreme42El.textContent = hokej[41].vreme42
+    domacin42El.textContent = hokej[41].domacin42
+    gost42El.textContent = hokej[41].gost42
+    cetrdesetdrugiPar1.textContent = hokej[41].igra1
+    cetrdesetdrugiParX.textContent = hokej[41].igraX
+    cetrdesetdrugiPar2.textContent = hokej[41].igra2
+    // HOKEJ PAR 43
+    vreme43El.textContent = hokej[42].vreme43
+    domacin43El.textContent = hokej[42].domacin43
+    gost43El.textContent = hokej[42].gost43
+    cetrdesettreciPar1.textContent = hokej[42].igra1
+    cetrdesettreciParX.textContent = hokej[42].igraX
+    cetrdesettreciPar2.textContent = hokej[42].igra2
+    // HOKEJ PAR 44
+    vreme44El.textContent = hokej[43].vreme44
+    domacin44El.textContent = hokej[43].domacin44
+    gost44El.textContent = hokej[43].gost44
+    cetrdesetcetvrtiPar1.textContent = hokej[43].igra1
+    cetrdesetcetvrtiParX.textContent = hokej[43].igraX
+    cetrdesetcetvrtiPar2.textContent = hokej[43].igra2
+    // HOKEJ PAR 45
+    vreme45El.textContent = hokej[44].vreme45
+    domacin45El.textContent = hokej[44].domacin45
+    gost45El.textContent = hokej[44].gost45
+    cetrdesetpetiPar1.textContent = hokej[44].igra1
+    cetrdesetpetiParX.textContent = hokej[44].igraX
+    cetrdesetpetiPar2.textContent = hokej[44].igra2
+    // HOKEJ PAR 46
+    vreme46El.textContent = hokej[45].vreme46
+    domacin46El.textContent = hokej[45].domacin46
+    gost46El.textContent = hokej[45].gost46
+    cetrdesetsestiPar1.textContent = hokej[45].igra1
+    cetrdesetsestiParX.textContent = hokej[45].igraX
+    cetrdesetsestiPar2.textContent = hokej[45].igra2
+    // HOKEJ PAR 47
+    vreme47El.textContent = hokej[46].vreme47
+    domacin47El.textContent = hokej[46].domacin47
+    gost47El.textContent = hokej[46].gost47
+    cetrdesetsedmiPar1.textContent = hokej[46].igra1
+    cetrdesetsedmiParX.textContent = hokej[46].igraX
+    cetrdesetsedmiPar2.textContent = hokej[46].igra2
+    // HOKEJ PAR 48
+    vreme48El.textContent = hokej[47].vreme48
+    domacin48El.textContent = hokej[47].domacin48
+    gost48El.textContent = hokej[47].gost48
+    cetrdesetosmiPar1.textContent = hokej[47].igra1
+    cetrdesetosmiParX.textContent = hokej[47].igraX
+    cetrdesetosmiPar2.textContent = hokej[47].igra2
+    // HOKEJ PAR 49
+    vreme49El.textContent = hokej[48].vreme49
+    domacin49El.textContent = hokej[48].domacin49
+    gost49El.textContent = hokej[48].gost49
+    cetrdesetdevetiPar1.textContent = hokej[48].igra1
+    cetrdesetdevetiParX.textContent = hokej[48].igraX
+    cetrdesetdevetiPar2.textContent = hokej[48].igra2
+    // HOKEJ PAR 50
+    vreme50El.textContent = hokej[49].vreme50
+    domacin50El.textContent = hokej[49].domacin50
+    gost50El.textContent = hokej[49].gost50
+    drugiPar1.textContent = hokej[49].igra1
+    drugiParX.textContent = hokej[49].igraX
+    drugiPar2.textContent = hokej[49].igra2
+    // HOKEJ PAR 51
+    vreme51El.textContent = hokej[50].vreme51
+    domacin51El.textContent = hokej[50].domacin51
+    gost51El.textContent = hokej[50].gost51
+    pedesetprviPar1.textContent = hokej[50].igra1
+    pedesetprviParX.textContent = hokej[50].igraX
+    pedesetprviPar2.textContent = hokej[50].igra2
+    // HOKEJ PAR 52
+    vreme52El.textContent = hokej[51].vreme52
+    domacin52El.textContent = hokej[51].domacin52
+    gost52El.textContent = hokej[51].gost52
+    pedesetdrugiPar1.textContent = hokej[51].igra1
+    pedesetdrugiParX.textContent = hokej[51].igraX
+    pedesetdrugiPar2.textContent = hokej[51].igra2
+    // HOKEJ PAR 53
+    vreme53El.textContent = hokej[52].vreme53
+    domacin53El.textContent = hokej[52].domacin53
+    gost53El.textContent = hokej[52].gost53
+    pedesettreciPar1.textContent = hokej[52].igra1
+    pedesettreciParX.textContent = hokej[52].igraX
+    pedesettreciPar2.textContent = hokej[52].igra2
+    // HOKEJ PAR 54
+    vreme54El.textContent = hokej[53].vreme54
+    domacin54El.textContent = hokej[53].domacin54
+    gost54El.textContent = hokej[53].gost54
+    pedesetcetvrtiPar1.textContent = hokej[53].igra1
+    pedesetcetvrtiParX.textContent = hokej[53].igraX
+    pedesetcetvrtiPar2.textContent = hokej[53].igra2
+    // HOKEJ PAR 55
+    vreme55El.textContent = hokej[54].vreme55
+    domacin55El.textContent = hokej[54].domacin55
+    gost55El.textContent = hokej[54].gost55
+    pedesetpetiPar1.textContent = hokej[54].igra1
+    pedesetpetiParX.textContent = hokej[54].igraX
+    pedesetpetiPar2.textContent = hokej[54].igra2
+    // HOKEJ PAR 56
+    vreme56El.textContent = hokej[55].vreme56
+    domacin56El.textContent = hokej[55].domacin56
+    gost56El.textContent = hokej[55].gost56
+    pedesetsestiPar1.textContent = hokej[55].igra1
+    pedesetsestiParX.textContent = hokej[55].igraX
+    pedesetsestiPar2.textContent = hokej[55].igra2
 
     FdbBtn.classList.remove('active-btn')
     FdbBtn.style.border = "0px solid #40A3FF"
@@ -4145,6 +5584,390 @@ let rukomet = [
         igra2: 1.65,
         vreme8: "Sre. 21:00"
     },
+    {   // RUKOMET PAR 9
+        domacin9: "Bergischer HC",
+        gost9: "Füchse Berlin",
+        igra1: 2.25,
+        igraX: 8.40,
+        igra2: 3.45,
+        vreme9: "Uto. 03:00"
+    },
+    {   // RUKOMET PAR 10
+        domacin10: "HBW",
+        gost10: "TVB 1898 Stuttgart",
+        igra1: 2.25,
+        igraX: 9.40,
+        igra2: 3.85,
+        vreme10: "Uto. 03:00"
+    },
+    {   // RUKOMET PAR 11
+        domacin11: "HC Erlangen",
+        gost11: "SG Flensburg",
+        igra1: 3.95,
+        igraX: 8.20,
+        igra2: 1.65,
+        vreme11: "Uto. 03:00"
+    },
+    {   // RUKOMET PAR 12
+        domacin12: "Frisch Auf Göppingen",
+        gost12: "HSV Hamburg",
+        igra1: 3.15,
+        igraX: 8.10,
+        igra2: 3.25,
+        vreme12: "Uto. 03:00"
+    },
+    {   // RUKOMET PAR 13
+        domacin13: "TSV Hannover",
+        gost13: "THW Kiel",
+        igra1: 3.25,
+        igraX: 4.30,
+        igra2: 2.65,
+        vreme13: "Sre. 09:00"
+    },
+    {   // RUKOMET PAR 14
+        domacin14: "SC Leipzig",
+        gost14: "TBV Lemgo",
+        igra1: 3.65,
+        igraX: 12.40,
+        igra2: 1.85,
+        vreme14: "Uto. 05:00"
+    },
+    {   // RUKOMET PAR 15
+        domacin15: "SC Magdeburg",
+        gost15: "MT Melsungen",
+        igra1: 2.35,
+        igraX: 12.40,
+        igra2: 2.45,
+        vreme15: "Uto. 05:00"
+    },
+    {   // RUKOMET PAR 16
+        domacin16: "GWD Minden",
+        gost16: "TuS Nettelstedt",
+        igra1: 2.65,
+        igraX: 12.40,
+        igra2: 1.95,
+        vreme16: "Uto. 05:00"
+    },
+    {   // RUKOMET PAR 17
+        domacin17: "Rhein-Neckar",
+        gost17: "HSG Wetzlar",
+        igra1: 2.65,
+        igraX: 13.40,
+        igra2: 1.55,
+        vreme17: "Sre. 19:30"
+    },
+    {   // RUKOMET PAR 18
+        domacin18: "Alingsås HK",
+        gost18: "Eskilstuna Guif",
+        igra1: 2.35,
+        igraX: 7.40,
+        igra2: 3.45,
+        vreme18: "Sre. 19:30"
+    },
+    {   // RUKOMET PAR 19
+        domacin19: "Hammarby IF",
+        gost19: "HK Aranäs",
+        igra1: 2.35,
+        igraX: 12.40,
+        igra2: 2.25,
+        vreme19: "Sre. 20:00"
+    },
+    {   // RUKOMET PAR 20
+        domacin20: "HK Malmö",
+        gost20: "IF Hallby",
+        igra1: 4.25,
+        igraX: 13.40,
+        igra2: 1.65,
+        vreme20: "Sre. 20:00"
+    },
+    {   // RUKOMET PAR 21
+        domacin21: "IFK Kristianstad",
+        gost21: "IFK Skövde",
+        igra1: 3.45,
+        igraX: 12.40,
+        igra2: 1.85,
+        vreme21: "Sre. 21:00"
+    },
+    {   // RUKOMET PAR 22
+        domacin22: "IK Sävehof",
+        gost22: "Lugi HF",
+        igra1: 2.75,
+        igraX: 8.80,
+        igra2: 2.15,
+        vreme22: "Sre. 20:00"
+    },
+    {   // RUKOMET PAR 23
+        domacin23: "OV Helsingborg",
+        gost23: "Redbergslids IK",
+        igra1: 2.05,
+        igraX: 12.10,
+        igra2: 3.15,
+        vreme23: "Sre. 20:00"
+    },
+    {   // RUKOMET PAR 24
+        domacin24: "Ystads IF HF",
+        gost24: "Önnereds HK",
+        igra1: 2.85,
+        igraX: 12.40,
+        igra2: 1.95,
+        vreme24: "Sre. 18:00"
+    },
+    {   // RUKOMET PAR 25
+        domacin25: "Barcelona",
+        gost25: "Bidasoa Irún",
+        igra1: 3.25,
+        igraX: 4.40,
+        igra2: 1.85,
+        vreme25: "Uto. 03:00"
+    },
+    {   // RUKOMET PAR 26
+        domacin26: "BM Logroño",
+        gost26: "Fraikin BM Granollers",
+        igra1: 2.25,
+        igraX: 5.40,
+        igra2: 3.85,
+        vreme26: "Uto. 03:00"
+    },
+    {   // RUKOMET PAR 27
+        domacin27: "Bada Huesca",
+        gost27: "Incarlopsa Cuenca",
+        igra1: 2.95,
+        igraX: 5.40,
+        igra2: 2.05,
+        vreme27: "Uto. 03:00"
+    },
+    {   // RUKOMET PAR 28
+        domacin28: "Ademar León",
+        gost28: "Ángel Ximénez",
+        igra1: 3.25,
+        igraX: 4.40,
+        igra2: 2.35,
+        vreme28: "Uto. 03:00"
+    },
+    {   // RUKOMET PAR 29
+        domacin29: "Recoletas Atlético",
+        gost29: "Helvetia Anaitasuna",
+        igra1: 1.45,
+        igraX: 8.40,
+        igra2: 3.85,
+        vreme29: "Sre. 19:00"
+    },
+    {   // RUKOMET PAR 30
+        domacin30: "BM Benidorm",
+        gost30: "Club Balonmano Nava",
+        igra1: 2.35,
+        igraX: 8.40,
+        igra2: 2.85,
+        vreme30: "Uto. 20:00"
+    },
+    {   // RUKOMET PAR 31
+        domacin31: "Unicaja Banco Sinfín",
+        gost31: "Frigoríficos Morrazo",
+        igra1: 2.15,
+        igraX: 9.40,
+        igra2: 3.45,
+        vreme31: "Uto. 20:00"
+    },
+    {   // RUKOMET PAR 32
+        domacin32: "Pays d'Aix Univ",
+        gost32: "Chartres Métropole",
+        igra1: 2.35,
+        igraX: 12.40,
+        igra2: 2.85,
+        vreme32: "Uto. 18:00"
+    },
+    {   // RUKOMET PAR 33
+        domacin33: "Chambéry",
+        gost33: "Dunkerque",
+        igra1: 2.25,
+        igraX: 8.40,
+        igra2: 3.45,
+        vreme33: "Uto. 03:00"
+    },
+    {   // RUKOMET PAR 34
+        domacin34: "US Ivry",
+        gost34: "US Créteil",
+        igra1: 2.25,
+        igraX: 9.40,
+        igra2: 3.85,
+        vreme34: "Uto. 03:00"
+    },
+    {   // RUKOMET PAR 35
+        domacin35: "Montpellier",
+        gost35: "Nantes",
+        igra1: 3.95,
+        igraX: 8.20,
+        igra2: 1.65,
+        vreme35: "Uto. 03:00"
+    },
+    {   // RUKOMET PAR 36
+        domacin36: "USAM Nîmes",
+        gost36: "PSG",
+        igra1: 3.15,
+        igraX: 8.10,
+        igra2: 3.25,
+        vreme36: "Uto. 03:00"
+    },
+    {   // RUKOMET PAR 37
+        domacin37: "Saint Raphaël",
+        gost37: "Istres Provence",
+        igra1: 3.25,
+        igraX: 4.30,
+        igra2: 2.65,
+        vreme37: "Sre. 09:00"
+    },
+    {   // RUKOMET PAR 38
+        domacin38: "Fenix Toulouse",
+        gost38: "Tremblay Handball",
+        igra1: 3.65,
+        igraX: 12.40,
+        igra2: 1.85,
+        vreme38: "Uto. 05:00"
+    },
+    {   // RUKOMET PAR 39
+        domacin39: "Limoges Handball",
+        gost39: "Cesson Rennes",
+        igra1: 2.35,
+        igraX: 12.40,
+        igra2: 2.45,
+        vreme39: "Uto. 05:00"
+    },
+    {   // RUKOMET PAR 40
+        domacin40: "Paris UC",
+        gost40: "AS Mulhouse",
+        igra1: 2.65,
+        igraX: 12.40,
+        igra2: 1.95,
+        vreme40: "Uto. 05:00"
+    },
+    {   // RUKOMET PAR 41
+        domacin41: "Bregenz Handball",
+        gost41: "HC Linz AG",
+        igra1: 2.65,
+        igraX: 13.40,
+        igra2: 1.55,
+        vreme41: "Sre. 19:30"
+    },
+    {   // RUKOMET PAR 42
+        domacin42: "Alpla HC Hard",
+        gost42: "ATSE Waagner",
+        igra1: 2.35,
+        igraX: 7.40,
+        igra2: 3.45,
+        vreme42: "Sre. 19:30"
+    },
+    {   // RUKOMET PAR 43
+        domacin43: "SG Handball",
+        gost43: "HSG Raiffeisen",
+        igra1: 2.35,
+        igraX: 12.40,
+        igra2: 2.25,
+        vreme43: "Sre. 20:00"
+    },
+    {   // RUKOMET PAR 44
+        domacin44: "UHK Krems",
+        gost44: "Rapid Wien",
+        igra1: 4.25,
+        igraX: 13.40,
+        igra2: 1.65,
+        vreme44: "Sre. 20:00"
+    },
+    {   // RUKOMET PAR 45
+        domacin45: "UHC Salzburg",
+        gost45: "HC Fivers",
+        igra1: 3.45,
+        igraX: 12.40,
+        igra2: 1.85,
+        vreme45: "Sre. 21:00"
+    },
+    {   // RUKOMET PAR 46
+        domacin46: "HC Bruck",
+        gost46: "ATSV Linz",
+        igra1: 2.75,
+        igraX: 8.80,
+        igra2: 2.15,
+        vreme46: "Sre. 20:00"
+    },
+    {   // RUKOMET PAR 47
+        domacin47: "WAT Atzgersdorf",
+        gost47: "Union  Stockerau",
+        igra1: 2.05,
+        igraX: 12.10,
+        igra2: 3.15,
+        vreme47: "Sre. 20:00"
+    },
+    {   // RUKOMET PAR 48
+        domacin48: "Union Edelweiß",
+        gost48: "Salzburger 1914",
+        igra1: 2.85,
+        igraX: 12.40,
+        igra2: 1.95,
+        vreme48: "Sre. 18:00"
+    },
+    {   // RUKOMET PAR 49
+        domacin49: "SV Polizei",
+        gost49: "Berliner",
+        igra1: 3.25,
+        igraX: 4.40,
+        igra2: 1.85,
+        vreme49: "Uto. 03:00"
+    },
+    {   // RUKOMET PAR 50
+        domacin50: "Lübbecke",
+        gost50: "Wetzlar",
+        igra1: 2.25,
+        igraX: 5.40,
+        igra2: 3.85,
+        vreme50: "Uto. 03:00"
+    },
+    {   // RUKOMET PAR 51
+        domacin51: "Lipperlandhalle",
+        gost51: "Denver Nuggets",
+        igra1: 2.95,
+        igraX: 5.40,
+        igra2: 2.05,
+        vreme51: "Uto. 03:00"
+    },
+    {   // RUKOMET PAR 52
+        domacin52: "THW Kiel",
+        gost52: "Leipzig",
+        igra1: 3.25,
+        igraX: 4.40,
+        igra2: 2.35,
+        vreme52: "Uto. 03:00"
+    },
+    {   // RUKOMET PAR 53
+        domacin53: "HSV",
+        gost53: "TSV",
+        igra1: 1.45,
+        igraX: 8.40,
+        igra2: 3.85,
+        vreme53: "Sre. 19:00"
+    },
+    {   // RUKOMET PAR 54
+        domacin54: "Erlangen",
+        gost54: "SG Flensburg",
+        igra1: 2.35,
+        igraX: 8.40,
+        igra2: 2.85,
+        vreme54: "Uto. 20:00"
+    },
+    {   // RUKOMET PAR 55
+        domacin55: "HBW",
+        gost55: "1898 Stuttgart",
+        igra1: 2.15,
+        igraX: 9.40,
+        igra2: 3.45,
+        vreme55: "Uto. 20:00"
+    },
+    {   // RUKOMET PAR 56
+        domacin56: "Bergischer HC",
+        gost56: "Füchse Berlin",
+        igra1: 2.35,
+        igraX: 12.40,
+        igra2: 2.85,
+        vreme56: "Uto. 18:00"
+    },
 ]  
 
 function rukometFunction() {
@@ -4205,6 +6028,342 @@ function rukometFunction() {
     osmiPar1.textContent = rukomet[7].igra1
     osmiParX.textContent = rukomet[7].igraX
     osmiPar2.textContent = rukomet[7].igra2
+    // RUKOMET PAR 9
+    vreme9El.textContent = rukomet[8].vreme9
+    domacin9El.textContent = rukomet[8].domacin9
+    gost9El.textContent = rukomet[8].gost9
+    devetiPar1.textContent = rukomet[8].igra1
+    devetiParX.textContent = rukomet[8].igraX
+    devetiPar2.textContent = rukomet[8].igra2
+    // RUKOMET PAR 10
+    vreme10El.textContent = rukomet[9].vreme10
+    domacin10El.textContent = rukomet[9].domacin10
+    gost10El.textContent = rukomet[9].gost10
+    desetiPar1.textContent = rukomet[9].igra1
+    desetiParX.textContent = rukomet[9].igraX
+    desetiPar2.textContent = rukomet[9].igra2
+    // RUKOMET PAR 11
+    vreme11El.textContent = rukomet[10].vreme11
+    domacin11El.textContent = rukomet[10].domacin11
+    gost11El.textContent = rukomet[10].gost11
+    jedanaestiPar1.textContent = rukomet[10].igra1
+    jedanaestiParX.textContent = rukomet[10].igraX
+    jedanaestiPar2.textContent = rukomet[10].igra2
+    // RUKOMET PAR 12
+    vreme12El.textContent = rukomet[11].vreme12
+    domacin12El.textContent = rukomet[11].domacin12
+    gost12El.textContent = rukomet[11].gost12
+    dvanaestiPar1.textContent = rukomet[11].igra1
+    dvanaestiParX.textContent = rukomet[11].igraX
+    dvanaestiPar2.textContent = rukomet[11].igra2
+    // RUKOMET PAR 13
+    vreme13El.textContent = rukomet[12].vreme13
+    domacin13El.textContent = rukomet[12].domacin13
+    gost13El.textContent = rukomet[12].gost13
+    trinaestiPar1.textContent = rukomet[12].igra1
+    trinaestiParX.textContent = rukomet[12].igraX
+    trinaestiPar2.textContent = rukomet[12].igra2
+    // RUKOMET PAR 14
+    vreme14El.textContent = rukomet[13].vreme14
+    domacin14El.textContent = rukomet[13].domacin14
+    gost14El.textContent = rukomet[13].gost14
+    cetrnaestiPar1.textContent = rukomet[13].igra1
+    cetrnaestiParX.textContent = rukomet[13].igraX
+    cetrnaestiPar2.textContent = rukomet[13].igra2
+    // RUKOMET PAR 15
+    vreme15El.textContent = rukomet[14].vreme15
+    domacin15El.textContent = rukomet[14].domacin15
+    gost15El.textContent = rukomet[14].gost15
+    petnaestiPar1.textContent = rukomet[14].igra1
+    petnaestiParX.textContent = rukomet[14].igraX
+    petnaestiPar2.textContent = rukomet[14].igra2
+    // RUKOMET PAR 16
+    vreme16El.textContent = rukomet[15].vreme16
+    domacin16El.textContent = rukomet[15].domacin16
+    gost16El.textContent = rukomet[15].gost16
+    sesnaestiPar1.textContent = rukomet[15].igra1
+    sesnaestiParX.textContent = rukomet[15].igraX
+    sesnaestiPar2.textContent = rukomet[15].igra2
+    // RUKOMET PAR 17
+    vreme17El.textContent = rukomet[16].vreme17
+    domacin17El.textContent = rukomet[16].domacin17
+    gost17El.textContent = rukomet[16].gost17
+    sedamnaestiPar1.textContent = rukomet[16].igra1
+    sedamnaestiParX.textContent = rukomet[16].igraX
+    sedamnaestiPar2.textContent = rukomet[16].igra2
+    // RUKOMET PAR 18
+    vreme18El.textContent = rukomet[17].vreme18
+    domacin18El.textContent = rukomet[17].domacin18
+    gost18El.textContent = rukomet[17].gost18
+    osamnaestiPar1.textContent = rukomet[17].igra1
+    osamnaestiParX.textContent = rukomet[17].igraX
+    osamnaestiPar2.textContent = rukomet[17].igra2
+    // RUKOMET PAR 19
+    vreme19El.textContent = rukomet[18].vreme19
+    domacin19El.textContent = rukomet[18].domacin19
+    gost19El.textContent = rukomet[18].gost19
+    devetnaestiPar1.textContent = rukomet[18].igra1
+    devetnaestiParX.textContent = rukomet[18].igraX
+    devetnaestiPar2.textContent = rukomet[18].igra2
+    // RUKOMET PAR 20
+    vreme20El.textContent = rukomet[19].vreme20
+    domacin20El.textContent = rukomet[19].domacin20
+    gost20El.textContent = rukomet[19].gost20
+    dvadesetiPar1.textContent = rukomet[19].igra1
+    dvadesetiParX.textContent = rukomet[19].igraX
+    dvadesetiPar2.textContent = rukomet[19].igra2
+    // RUKOMET PAR 21
+    vreme21El.textContent = rukomet[20].vreme21
+    domacin21El.textContent = rukomet[20].domacin21
+    gost21El.textContent = rukomet[20].gost21
+    dvadesetprviPar1.textContent = rukomet[20].igra1
+    dvadesetprviParX.textContent = rukomet[20].igraX
+    dvadesetprviPar2.textContent = rukomet[20].igra2
+    // RUKOMET PAR 22
+    vreme22El.textContent = rukomet[21].vreme22
+    domacin22El.textContent = rukomet[21].domacin22
+    gost22El.textContent = rukomet[21].gost22
+    dvadesetdrugiPar1.textContent = rukomet[21].igra1
+    dvadesetdrugiParX.textContent = rukomet[21].igraX
+    dvadesetdrugiPar2.textContent = rukomet[21].igra2
+    // RUKOMET PAR 23
+    vreme23El.textContent = rukomet[22].vreme23
+    domacin23El.textContent = rukomet[22].domacin23
+    gost23El.textContent = rukomet[22].gost23
+    dvadesettreciPar1.textContent = rukomet[22].igra1
+    dvadesettreciParX.textContent = rukomet[22].igraX
+    dvadesettreciPar2.textContent = rukomet[22].igra2
+    // RUKOMET PAR 24
+    vreme24El.textContent = rukomet[23].vreme24
+    domacin24El.textContent = rukomet[23].domacin24
+    gost24El.textContent = rukomet[23].gost24
+    dvadesetcetvrtiPar1.textContent = rukomet[23].igra1
+    dvadesetcetvrtiParX.textContent = rukomet[23].igraX
+    dvadesetcetvrtiPar2.textContent = rukomet[23].igra2
+    // RUKOMET PAR 25
+    vreme25El.textContent = rukomet[24].vreme25
+    domacin25El.textContent = rukomet[24].domacin25
+    gost25El.textContent = rukomet[24].gost25
+    dvadesetpetiPar1.textContent = rukomet[24].igra1
+    dvadesetpetiParX.textContent = rukomet[24].igraX
+    dvadesetpetiPar2.textContent = rukomet[24].igra2
+    // RUKOMET PAR 26
+    vreme26El.textContent = rukomet[25].vreme26
+    domacin26El.textContent = rukomet[25].domacin26
+    gost26El.textContent = rukomet[25].gost26
+    dvadesetsestiPar1.textContent = rukomet[25].igra1
+    dvadesetsestiParX.textContent = rukomet[25].igraX
+    dvadesetsestiPar2.textContent = rukomet[25].igra2
+    // RUKOMET PAR 27
+    vreme27El.textContent = rukomet[26].vreme27
+    domacin27El.textContent = rukomet[26].domacin27
+    gost27El.textContent = rukomet[26].gost27
+    dvadesetsedmiPar1.textContent = rukomet[26].igra1
+    dvadesetsedmiParX.textContent = rukomet[26].igraX
+    dvadesetsedmiPar2.textContent = rukomet[26].igra2
+    // RUKOMET PAR 28
+    vreme28El.textContent = rukomet[27].vreme28
+    domacin28El.textContent = rukomet[27].domacin28
+    gost28El.textContent = rukomet[27].gost28
+    dvadesetosmiPar1.textContent = rukomet[27].igra1
+    dvadesetosmiParX.textContent = rukomet[27].igraX
+    dvadesetosmiPar2.textContent = rukomet[27].igra2
+    // RUKOMET PAR 29
+    vreme29El.textContent = rukomet[28].vreme29
+    domacin29El.textContent = rukomet[28].domacin29
+    gost29El.textContent = rukomet[28].gost29
+    dvadesetdevetiPar1.textContent = rukomet[28].igra1
+    dvadesetdevetiParX.textContent = rukomet[28].igraX
+    dvadesetdevetiPar2.textContent = rukomet[28].igra2
+    // RUKOMET PAR 30
+    vreme30El.textContent = rukomet[29].vreme30
+    domacin30El.textContent = rukomet[29].domacin30
+    gost30El.textContent = rukomet[29].gost6
+    tridesetiPar1.textContent = rukomet[29].igra1
+    tridesetiParX.textContent = rukomet[29].igraX
+    tridesetiPar2.textContent = rukomet[29].igra2
+    // RUKOMET PAR 31
+    vreme31El.textContent = rukomet[30].vreme31
+    domacin31El.textContent = rukomet[30].domacin31
+    gost31El.textContent = rukomet[30].gost31
+    tridesetprviPar1.textContent = rukomet[30].igra1
+    tridesetprviParX.textContent = rukomet[30].igraX
+    tridesetprviPar2.textContent = rukomet[30].igra2
+    // RUKOMET PAR 32
+    vreme32El.textContent = rukomet[31].vreme32
+    domacin32El.textContent = rukomet[31].domacin32
+    gost32El.textContent = rukomet[31].gost32
+    tridesetdrugiPar1.textContent = rukomet[31].igra1
+    tridesetdrugiParX.textContent = rukomet[31].igraX
+    tridesetdrugiPar2.textContent = rukomet[31].igra2
+    // RUKOMET PAR 33
+    vreme33El.textContent = rukomet[32].vreme33
+    domacin33El.textContent = rukomet[32].domacin33
+    gost33El.textContent = rukomet[32].gost33
+    tridesettreciPar1.textContent = rukomet[32].igra1
+    tridesettreciParX.textContent = rukomet[32].igraX
+    tridesettreciPar2.textContent = rukomet[32].igra2
+    // RUKOMET PAR 34
+    vreme34El.textContent = rukomet[33].vreme34
+    domacin34El.textContent = rukomet[33].domacin34
+    gost34El.textContent = rukomet[33].gost34
+    tridesetcetvrtiPar1.textContent = rukomet[33].igra1
+    tridesetcetvrtiParX.textContent = rukomet[33].igraX
+    tridesetcetvrtiPar2.textContent = rukomet[33].igra2
+    // RUKOMET PAR 35
+    vreme35El.textContent = rukomet[34].vreme35
+    domacin35El.textContent = rukomet[34].domacin35
+    gost35El.textContent = rukomet[34].gost35
+    tridesetpetiPar1.textContent = rukomet[34].igra1
+    tridesetpetiParX.textContent = rukomet[34].igraX
+    tridesetpetiPar2.textContent = rukomet[34].igra2
+    // RUKOMET PAR 36
+    vreme36El.textContent = rukomet[35].vreme36
+    domacin36El.textContent = rukomet[35].domacin36
+    gost36El.textContent = rukomet[35].gost36
+    tridesetsestiPar1.textContent = rukomet[35].igra1
+    tridesetsestiParX.textContent = rukomet[35].igraX
+    tridesetsestiPar2.textContent = rukomet[35].igra2
+    // RUKOMET PAR 37
+    vreme37El.textContent = rukomet[36].vreme37
+    domacin37El.textContent = rukomet[36].domacin37
+    gost37El.textContent = rukomet[36].gost37
+    tridesetsedmiPar1.textContent = rukomet[36].igra1
+    tridesetsedmiParX.textContent = rukomet[36].igraX
+    tridesetsedmiPar2.textContent = rukomet[36].igra2
+    // RUKOMET PAR 38
+    vreme38El.textContent = rukomet[37].vreme38
+    domacin38El.textContent = rukomet[37].domacin38
+    gost38El.textContent = rukomet[37].gost38
+    tridesetosmiPar1.textContent = rukomet[37].igra1
+    tridesetosmiParX.textContent = rukomet[37].igraX
+    tridesetosmiPar2.textContent = rukomet[37].igra2
+    // RUKOMET PAR 39
+    vreme39El.textContent = rukomet[38].vreme39
+    domacin39El.textContent = rukomet[38].domacin39
+    gost39El.textContent = rukomet[38].gost39
+    tridesetdevetiPar1.textContent = rukomet[38].igra1
+    tridesetdevetiParX.textContent = rukomet[38].igraX
+    tridesetdevetiPar2.textContent = rukomet[38].igra2
+    // RUKOMET PAR 40
+    vreme40El.textContent = rukomet[39].vreme40
+    domacin40El.textContent = rukomet[39].domacin40
+    gost40El.textContent = rukomet[39].gost40
+    cetrdesetiPar1.textContent = rukomet[39].igra1
+    cetrdesetiParX.textContent = rukomet[39].igraX
+    cetrdesetiPar2.textContent = rukomet[39].igra2
+    // RUKOMET PAR 41
+    vreme41El.textContent = rukomet[40].vreme41
+    domacin41El.textContent = rukomet[40].domacin41
+    gost41El.textContent = rukomet[40].gost41
+    cetrdesetprviPar1.textContent = rukomet[40].igra1
+    cetrdesetprviParX.textContent = rukomet[40].igraX
+    cetrdesetprviPar2.textContent = rukomet[40].igra2
+    // RUKOMET PAR 42
+    vreme42El.textContent = rukomet[41].vreme42
+    domacin42El.textContent = rukomet[41].domacin42
+    gost42El.textContent = rukomet[41].gost42
+    cetrdesetdrugiPar1.textContent = rukomet[41].igra1
+    cetrdesetdrugiParX.textContent = rukomet[41].igraX
+    cetrdesetdrugiPar2.textContent = rukomet[41].igra2
+    // RUKOMET PAR 43
+    vreme43El.textContent = rukomet[42].vreme43
+    domacin43El.textContent = rukomet[42].domacin43
+    gost43El.textContent = rukomet[42].gost43
+    cetrdesettreciPar1.textContent = rukomet[42].igra1
+    cetrdesettreciParX.textContent = rukomet[42].igraX
+    cetrdesettreciPar2.textContent = rukomet[42].igra2
+    // RUKOMET PAR 44
+    vreme44El.textContent = rukomet[43].vreme44
+    domacin44El.textContent = rukomet[43].domacin44
+    gost44El.textContent = rukomet[43].gost44
+    cetrdesetcetvrtiPar1.textContent = rukomet[43].igra1
+    cetrdesetcetvrtiParX.textContent = rukomet[43].igraX
+    cetrdesetcetvrtiPar2.textContent = rukomet[43].igra2
+    // RUKOMET PAR 45
+    vreme45El.textContent = rukomet[44].vreme45
+    domacin45El.textContent = rukomet[44].domacin45
+    gost45El.textContent = rukomet[44].gost45
+    cetrdesetpetiPar1.textContent = rukomet[44].igra1
+    cetrdesetpetiParX.textContent = rukomet[44].igraX
+    cetrdesetpetiPar2.textContent = rukomet[44].igra2
+    // RUKOMET PAR 46
+    vreme46El.textContent = rukomet[45].vreme46
+    domacin46El.textContent = rukomet[45].domacin46
+    gost46El.textContent = rukomet[45].gost46
+    cetrdesetsestiPar1.textContent = rukomet[45].igra1
+    cetrdesetsestiParX.textContent = rukomet[45].igraX
+    cetrdesetsestiPar2.textContent = rukomet[45].igra2
+    // RUKOMET PAR 47
+    vreme47El.textContent = rukomet[46].vreme47
+    domacin47El.textContent = rukomet[46].domacin47
+    gost47El.textContent = rukomet[46].gost47
+    cetrdesetsedmiPar1.textContent = rukomet[46].igra1
+    cetrdesetsedmiParX.textContent = rukomet[46].igraX
+    cetrdesetsedmiPar2.textContent = rukomet[46].igra2
+    // RUKOMET PAR 48
+    vreme48El.textContent = rukomet[47].vreme48
+    domacin48El.textContent = rukomet[47].domacin48
+    gost48El.textContent = rukomet[47].gost48
+    cetrdesetosmiPar1.textContent = rukomet[47].igra1
+    cetrdesetosmiParX.textContent = rukomet[47].igraX
+    cetrdesetosmiPar2.textContent = rukomet[47].igra2
+    // RUKOMET PAR 49
+    vreme49El.textContent = rukomet[48].vreme49
+    domacin49El.textContent = rukomet[48].domacin49
+    gost49El.textContent = rukomet[48].gost49
+    cetrdesetdevetiPar1.textContent = rukomet[48].igra1
+    cetrdesetdevetiParX.textContent = rukomet[48].igraX
+    cetrdesetdevetiPar2.textContent = rukomet[48].igra2
+    // RUKOMET PAR 50
+    vreme50El.textContent = rukomet[49].vreme50
+    domacin50El.textContent = rukomet[49].domacin50
+    gost50El.textContent = rukomet[49].gost50
+    pedesetiPar1.textContent = rukomet[49].igra1
+    pedesetiParX.textContent = rukomet[49].igraX
+    pedesetiPar2.textContent = rukomet[49].igra2
+    // RUKOMET PAR 51
+    vreme51El.textContent = rukomet[50].vreme51
+    domacin51El.textContent = rukomet[50].domacin51
+    gost51El.textContent = rukomet[50].gost51
+    pedesetprviPar1.textContent = rukomet[50].igra1
+    pedesetprviParX.textContent = rukomet[50].igraX
+    pedesetprviPar2.textContent = rukomet[50].igra2
+    // RUKOMET PAR 52
+    vreme52El.textContent = rukomet[51].vreme52
+    domacin52El.textContent = rukomet[51].domacin52
+    gost52El.textContent = rukomet[51].gost52
+    pedesetdrugiPar1.textContent = rukomet[51].igra1
+    pedesetdrugiParX.textContent = rukomet[51].igraX
+    pedesetdrugiPar2.textContent = rukomet[51].igra2
+    // RUKOMET PAR 53
+    vreme53El.textContent = rukomet[52].vreme53
+    domacin53El.textContent = rukomet[52].domacin53
+    gost53El.textContent = rukomet[52].gost53
+    pedesettreciPar1.textContent = rukomet[52].igra1
+    pedesettreciParX.textContent = rukomet[52].igraX
+    pedesettreciPar2.textContent = rukomet[52].igra2
+    // RUKOMET PAR 54
+    vreme54El.textContent = rukomet[53].vreme54
+    domacin54El.textContent = rukomet[53].domacin54
+    gost54El.textContent = rukomet[53].gost54
+    pedesetcetvrtiPar1.textContent = rukomet[53].igra1
+    pedesetcetvrtiParX.textContent = rukomet[53].igraX
+    pedesetcetvrtiPar2.textContent = rukomet[53].igra2
+    // RUKOMET PAR 55
+    vreme55El.textContent = rukomet[54].vreme55
+    domacin55El.textContent = rukomet[54].domacin55
+    gost55El.textContent = rukomet[54].gost55
+    pedesetpetiPar1.textContent = rukomet[54].igra1
+    pedesetpetiParX.textContent = rukomet[54].igraX
+    pedesetpetiPar2.textContent = rukomet[54].igra2
+    // RUKOMET PAR 56
+    vreme56El.textContent = rukomet[55].vreme56
+    domacin56El.textContent = rukomet[55].domacin56
+    gost56El.textContent = rukomet[55].gost56
+    pedesetsestiPar1.textContent = rukomet[55].igra1
+    pedesetsestiParX.textContent = rukomet[55].igraX
+    pedesetsestiPar2.textContent = rukomet[55].igra2
 
     FdbBtn.classList.remove('active-btn')
     FdbBtn.style.border = "0px solid #40A3FF"
@@ -4333,6 +6492,390 @@ let odbojka = [
         igra2: 2.85,
         vreme8: "Sub. 21:00"
     },
+    {   // ODBOJKA PAR 9
+        domacin9: "Španija",
+        gost9: "Norveška",
+        igra1: 1.25,
+        igraX: "-",
+        igra2: 4.55,
+        vreme9: "Sub. 16:00"
+    },
+    {   // ODBOJKA PAR 10
+        domacin10: "Švedska",
+        gost10: "Mađarska",
+        igra1: 2.05,
+        igraX: "-",
+        igra2: 2.85,
+        vreme10: "Sub. 18:00"
+    },
+    {   // ODBOJKA PAR 11
+        domacin11: "Rumunija",
+        gost11: "Engleska",
+        igra1: 3.25,
+        igraX: "-",
+        igra2: 1.85,
+        vreme11: "Uto. 19:00"
+    },
+    {   // ODBOJKA PAR 12
+        domacin12: "Kostarika",
+        gost12: "India",
+        igra1: 5.25,
+        igraX: "-",
+        igra2: 1.45,
+        vreme12: "Pet. 00:00"
+    },
+    {   // ODBOJKA PAR 13
+        domacin13: "Argentina",
+        gost13: "Portugal",
+        igra1: 2.05,
+        igraX: "-",
+        igra2: 2.85,
+        vreme13: "Sre. 16:00"
+    },
+    {   // ODBOJKA PAR 14
+        domacin14: "Holandija",
+        gost14: "Belgija",
+        igra1: 3.15,
+        igraX: "-",
+        igra2: 1.65,
+        vreme14: "Pon. 19:00"
+    },
+    {   // ODBOJKA PAR 15
+        domacin15: "San Marino",
+        gost15: "Alejandro Davidovich",
+        igra1: 1.95,
+        igraX: "-",
+        igra2: 2.25,
+        vreme15: "Pon. 16:00"
+    },
+    {   // ODBOJKA PAR 16
+        domacin16: "BiH",
+        gost16: "Hrvatska",
+        igra1: 2.15,
+        igraX: "-",
+        igra2: 2.25,
+        vreme16: "Cet. 19:00"
+    },
+    {   // ODBOJKA PAR 17
+        domacin17: "Makedonija",
+        gost17: "Bugarska",
+        igra1: 2.65,
+        igraX: "-",
+        igra2: 1.55,
+        vreme17: "Cet. 14:30"
+    },
+    {   // ODBOJKA PAR 18
+        domacin18: "Azerbejdžan",
+        gost18: "Honduras",
+        igra1: 2.35,
+        igraX: "-",
+        igra2: 3.45,
+        vreme18: "Sre. 20:15"
+    },
+    {   // ODBOJKA PAR 19
+        domacin19: "Čile",
+        gost19: "Kanada",
+        igra1: 2.35,
+        igraX: "-",
+        igra2: 2.25,
+        vreme19: "Sre. 20:00"
+    },
+    {   // ODBOJKA PAR 20
+        domacin20: "Švajcerska",
+        gost20: "Belorusija",
+        igra1: 3.25,
+        igraX: "-",
+        igra2: 1.85,
+        vreme20: "Pon. 13:00"
+    },
+    {   // ODBOJKA PAR 21
+        domacin21: "Meksiko",
+        gost21: "Bolivija",
+        igra1: 2.35,
+        igraX: "-",
+        igra2: 1.55,
+        vreme21: "Sre. 21:00"
+    },
+    {   // ODBOJKA PAR 22
+        domacin22: "Škotska",
+        gost22: "Vels",
+        igra1: 2.15,
+        igraX: "-",
+        igra2: 1.85,
+        vreme22: "Sre. 13:30"
+    },
+    {   // ODBOJKA PAR 23
+        domacin23: "Indonezija",
+        gost23: "Albanija",
+        igra1: 2.65,
+        igraX: "-",
+        igra2: 1.15,
+        vreme23: "Uto. 10:00"
+    },
+    {   // ODBOJKA PAR 24
+        domacin24: "Slovenija",
+        gost24: "Grčka",
+        igra1: 2.05,
+        igraX: "-",
+        igra2: 1.85,
+        vreme24: "Uto. 13:00"
+    },
+    {   // ODBOJKA PAR 25
+        domacin25: "Italija",
+        gost25: "Danska",
+        igra1: 1.70,
+        igraX: "-",
+        igra2: 3.05,
+        vreme25: "Pet. 18:00"
+    },
+    {   // ODBOJKA PAR 26
+        domacin26: "Srbija",
+        gost26: "SAD",
+        igra1: 2.25,
+        igraX: "-",
+        igra2: 3.45,
+        vreme26: "Pet. 18:00"
+    },
+    {   // ODBOJKA PAR 27
+        domacin27: "Brazil",
+        gost27: "Francuska",
+        igra1: 1.95,
+        igraX: "-",
+        igra2: 2.45,
+        vreme27: "Pet. 21:00"
+    },
+    {   // ODBOJKA PAR 28
+        domacin28: "Rusija",
+        gost28: "Kina",
+        igra1: 2.15,
+        igraX: "-",
+        igra2: 3.15,
+        vreme28: "Pet. 21:00"
+    },
+    {   // ODBOJKA PAR 29
+        domacin29: "Kuba",
+        gost29: "Poljska",
+        igra1: 4.45,
+        igraX: "-",
+        igra2: 1.85,
+        vreme29: "Sub. 18:00"
+    },
+    {   // ODBOJKA PAR 30
+        domacin30: "Kanada",
+        gost30: "Tunis",
+        igra1: 2.15,
+        igraX: "-",
+        igra2: 3.95,
+        vreme30: "Sub. 18:00"
+    },
+    {   // ODBOJKA PAR 31
+        domacin31: "Japan",
+        gost31: "Kolumbija",
+        igra1: 2.25,
+        igraX: "-",
+        igra2: 2.55,
+        vreme31: "Sub. 21:00"
+    },
+    {   // ODBOJKA PAR 32
+        domacin32: "Izrael",
+        gost32: "Turska",
+        igra1: 2.35,
+        igraX: "-",
+        igra2: 2.85,
+        vreme32: "Sub. 21:00"
+    },
+    {   // ODBOJKA PAR 33
+        domacin33: "Španija",
+        gost33: "Norveška",
+        igra1: 1.25,
+        igraX: "-",
+        igra2: 4.55,
+        vreme33: "Sub. 16:00"
+    },
+    {   // ODBOJKA PAR 34
+        domacin34: "Švedska",
+        gost34: "Mađarska",
+        igra1: 2.05,
+        igraX: "-",
+        igra2: 2.85,
+        vreme34: "Sub. 18:00"
+    },
+    {   // ODBOJKA PAR 35
+        domacin35: "Rumunija",
+        gost35: "Engleska",
+        igra1: 3.25,
+        igraX: "-",
+        igra2: 1.85,
+        vreme35: "Uto. 19:00"
+    },
+    {   // ODBOJKA PAR 36
+        domacin36: "Kostarika",
+        gost36: "India",
+        igra1: 5.25,
+        igraX: "-",
+        igra2: 1.45,
+        vreme36: "Pet. 00:00"
+    },
+    {   // ODBOJKA PAR 37
+        domacin37: "Argentina",
+        gost37: "Portugal",
+        igra1: 2.05,
+        igraX: "-",
+        igra2: 2.85,
+        vreme37: "Sre. 16:00"
+    },
+    {   // ODBOJKA PAR 38
+        domacin38: "Holandija",
+        gost38: "Belgija",
+        igra1: 3.15,
+        igraX: "-",
+        igra2: 1.65,
+        vreme38: "Pon. 19:00"
+    },
+    {   // ODBOJKA PAR 39
+        domacin39: "San Marino",
+        gost39: "Alejandro Davidovich",
+        igra1: 1.95,
+        igraX: "-",
+        igra2: 2.25,
+        vreme39: "Pon. 16:00"
+    },
+    {   // ODBOJKA PAR 40
+        domacin40: "BiH",
+        gost40: "Hrvatska",
+        igra1: 2.15,
+        igraX: "-",
+        igra2: 2.25,
+        vreme40: "Cet. 19:00"
+    },
+    {   // ODBOJKA PAR 41
+        domacin41: "Makedonija",
+        gost41: "Bugarska",
+        igra1: 2.65,
+        igraX: "-",
+        igra2: 1.55,
+        vreme41: "Cet. 14:30"
+    },
+    {   // ODBOJKA PAR 42
+        domacin42: "Azerbejdžan",
+        gost42: "Honduras",
+        igra1: 2.35,
+        igraX: "-",
+        igra2: 3.45,
+        vreme42: "Sre. 20:15"
+    },
+    {   // ODBOJKA PAR 43
+        domacin43: "Čile",
+        gost43: "Kanada",
+        igra1: 2.35,
+        igraX: "-",
+        igra2: 2.25,
+        vreme43: "Sre. 20:00"
+    },
+    {   // ODBOJKA PAR 44
+        domacin44: "Švajcerska",
+        gost44: "Belorusija",
+        igra1: 3.25,
+        igraX: "-",
+        igra2: 1.85,
+        vreme44: "Pon. 13:00"
+    },
+    {   // ODBOJKA PAR 45
+        domacin45: "Meksiko",
+        gost45: "Bolivija",
+        igra1: 2.35,
+        igraX: "-",
+        igra2: 1.55,
+        vreme45: "Sre. 21:00"
+    },
+    {   // ODBOJKA PAR 46
+        domacin46: "Škotska",
+        gost46: "Vels",
+        igra1: 2.15,
+        igraX: "-",
+        igra2: 1.85,
+        vreme46: "Sre. 13:30"
+    },
+    {   // ODBOJKA PAR 47
+        domacin47: "Indonezija",
+        gost47: "Albanija",
+        igra1: 2.65,
+        igraX: "-",
+        igra2: 1.15,
+        vreme47: "Uto. 10:00"
+    },
+    {   // ODBOJKA PAR 48
+        domacin48: "Slovenija",
+        gost48: "Grčka",
+        igra1: 2.05,
+        igraX: "-",
+        igra2: 1.85,
+        vreme48: "Uto. 13:00"
+    },
+    {   // ODBOJKA PAR 49
+        domacin49: "Italija",
+        gost49: "Danska",
+        igra1: 1.70,
+        igraX: "-",
+        igra2: 3.05,
+        vreme49: "Pet. 18:00"
+    },
+    {   // ODBOJKA PAR 50
+        domacin50: "Srbija",
+        gost50: "SAD",
+        igra1: 2.25,
+        igraX: "-",
+        igra2: 3.45,
+        vreme50: "Pet. 18:00"
+    },
+    {   // ODBOJKA PAR 51
+        domacin51: "Brazil",
+        gost51: "Francuska",
+        igra1: 1.95,
+        igraX: "-",
+        igra2: 2.45,
+        vreme51: "Pet. 21:00"
+    },
+    {   // ODBOJKA PAR 52
+        domacin52: "Rusija",
+        gost52: "Kina",
+        igra1: 2.15,
+        igraX: "-",
+        igra2: 3.15,
+        vreme52: "Pet. 21:00"
+    },
+    {   // ODBOJKA PAR 53
+        domacin53: "Kuba",
+        gost53: "Poljska",
+        igra1: 4.45,
+        igraX: "-",
+        igra2: 1.85,
+        vreme53: "Sub. 18:00"
+    },
+    {   // ODBOJKA PAR 54
+        domacin54: "Kanada",
+        gost54: "Tunis",
+        igra1: 2.15,
+        igraX: "-",
+        igra2: 3.95,
+        vreme54: "Sub. 18:00"
+    },
+    {   // ODBOJKA PAR 55
+        domacin55: "Japan",
+        gost55: "Kolumbija",
+        igra1: 2.25,
+        igraX: "-",
+        igra2: 2.55,
+        vreme55: "Sub. 21:00"
+    },
+    {   // ODBOJKA PAR 56
+        domacin56: "Izrael",
+        gost56: "Turska",
+        igra1: 2.35,
+        igraX: "-",
+        igra2: 2.85,
+        vreme56: "Sub. 21:00"
+    },
 ]  
 
 function odbojkaFunction() {
@@ -4393,6 +6936,342 @@ function odbojkaFunction() {
     osmiPar1.textContent = odbojka[7].igra1
     osmiParX.textContent = odbojka[7].igraX
     osmiPar2.textContent = odbojka[7].igra2
+    // RUKOMET PAR 9
+    vreme9El.textContent = odbojka[8].vreme9
+    domacin9El.textContent = odbojka[8].domacin9
+    gost9El.textContent = odbojka[8].gost9
+    devetiPar1.textContent = odbojka[8].igra1
+    devetiParX.textContent = odbojka[8].igraX
+    devetiPar2.textContent = odbojka[8].igra2
+    // RUKOMET PAR 10
+    vreme10El.textContent = odbojka[9].vreme10
+    domacin10El.textContent = odbojka[9].domacin10
+    gost10El.textContent = odbojka[9].gost10
+    desetiPar1.textContent = odbojka[9].igra1
+    desetiParX.textContent = odbojka[9].igraX
+    desetiPar2.textContent = odbojka[9].igra2
+    // RUKOMET PAR 11
+    vreme11El.textContent = odbojka[10].vreme11
+    domacin11El.textContent = odbojka[10].domacin11
+    gost11El.textContent = odbojka[10].gost11
+    jedanaestiPar1.textContent = odbojka[10].igra1
+    jedanaestiParX.textContent = odbojka[10].igraX
+    jedanaestiPar2.textContent = odbojka[10].igra2
+    // RUKOMET PAR 12
+    vreme12El.textContent = odbojka[11].vreme12
+    domacin12El.textContent = odbojka[11].domacin12
+    gost12El.textContent = odbojka[11].gost12
+    dvanaestiPar1.textContent = odbojka[11].igra1
+    dvanaestiParX.textContent = odbojka[11].igraX
+    dvanaestiPar2.textContent = odbojka[11].igra2
+    // RUKOMET PAR 13
+    vreme13El.textContent = odbojka[12].vreme13
+    domacin13El.textContent = odbojka[12].domacin13
+    gost13El.textContent = odbojka[12].gost13
+    trinaestiPar1.textContent = odbojka[12].igra1
+    trinaestiParX.textContent = odbojka[12].igraX
+    trinaestiPar2.textContent = odbojka[12].igra2
+    // RUKOMET PAR 14
+    vreme14El.textContent = odbojka[13].vreme14
+    domacin14El.textContent = odbojka[13].domacin14
+    gost14El.textContent = odbojka[13].gost14
+    cetrnaestiPar1.textContent = odbojka[13].igra1
+    cetrnaestiParX.textContent = odbojka[13].igraX
+    cetrnaestiPar2.textContent = odbojka[13].igra2
+    // RUKOMET PAR 15
+    vreme15El.textContent = odbojka[14].vreme15
+    domacin15El.textContent = odbojka[14].domacin15
+    gost15El.textContent = odbojka[14].gost15
+    petnaestiPar1.textContent = odbojka[14].igra1
+    petnaestiParX.textContent = odbojka[14].igraX
+    petnaestiPar2.textContent = odbojka[14].igra2
+    // RUKOMET PAR 16
+    vreme16El.textContent = odbojka[15].vreme16
+    domacin16El.textContent = odbojka[15].domacin16
+    gost16El.textContent = odbojka[15].gost16
+    sesnaestiPar1.textContent = odbojka[15].igra1
+    sesnaestiParX.textContent = odbojka[15].igraX
+    sesnaestiPar2.textContent = odbojka[15].igra2
+    // RUKOMET PAR 17
+    vreme17El.textContent = odbojka[16].vreme17
+    domacin17El.textContent = odbojka[16].domacin17
+    gost17El.textContent = odbojka[16].gost17
+    sedamnaestiPar1.textContent = odbojka[16].igra1
+    sedamnaestiParX.textContent = odbojka[16].igraX
+    sedamnaestiPar2.textContent = odbojka[16].igra2
+    // RUKOMET PAR 18
+    vreme18El.textContent = odbojka[17].vreme18
+    domacin18El.textContent = odbojka[17].domacin18
+    gost18El.textContent = odbojka[17].gost18
+    osamnaestiPar1.textContent = odbojka[17].igra1
+    osamnaestiParX.textContent = odbojka[17].igraX
+    osamnaestiPar2.textContent = odbojka[17].igra2
+    // RUKOMET PAR 19
+    vreme19El.textContent = odbojka[18].vreme19
+    domacin19El.textContent = odbojka[18].domacin19
+    gost19El.textContent = odbojka[18].gost19
+    devetnaestiPar1.textContent = odbojka[18].igra1
+    devetnaestiParX.textContent = odbojka[18].igraX
+    devetnaestiPar2.textContent = odbojka[18].igra2
+    // RUKOMET PAR 20
+    vreme20El.textContent = odbojka[19].vreme20
+    domacin20El.textContent = odbojka[19].domacin20
+    gost20El.textContent = odbojka[19].gost20
+    dvadesetiPar1.textContent = odbojka[19].igra1
+    dvadesetiParX.textContent = odbojka[19].igraX
+    dvadesetiPar2.textContent = odbojka[19].igra2
+    // RUKOMET PAR 21
+    vreme21El.textContent = odbojka[20].vreme21
+    domacin21El.textContent = odbojka[20].domacin21
+    gost21El.textContent = odbojka[20].gost21
+    dvadesetprviPar1.textContent = odbojka[20].igra1
+    dvadesetprviParX.textContent = odbojka[20].igraX
+    dvadesetprviPar2.textContent = odbojka[20].igra2
+    // RUKOMET PAR 22
+    vreme22El.textContent = odbojka[21].vreme22
+    domacin22El.textContent = odbojka[21].domacin22
+    gost22El.textContent = odbojka[21].gost22
+    dvadesetdrugiPar1.textContent = odbojka[21].igra1
+    dvadesetdrugiParX.textContent = odbojka[21].igraX
+    dvadesetdrugiPar2.textContent = odbojka[21].igra2
+    // RUKOMET PAR 23
+    vreme23El.textContent = odbojka[22].vreme23
+    domacin23El.textContent = odbojka[22].domacin23
+    gost23El.textContent = odbojka[22].gost23
+    dvadesettreciPar1.textContent = odbojka[22].igra1
+    dvadesettreciParX.textContent = odbojka[22].igraX
+    dvadesettreciPar2.textContent = odbojka[22].igra2
+    // RUKOMET PAR 24
+    vreme24El.textContent = odbojka[23].vreme24
+    domacin24El.textContent = odbojka[23].domacin24
+    gost24El.textContent = odbojka[23].gost24
+    dvadesetcetvrtiPar1.textContent = odbojka[23].igra1
+    dvadesetcetvrtiParX.textContent = odbojka[23].igraX
+    dvadesetcetvrtiPar2.textContent = odbojka[23].igra2
+    // RUKOMET PAR 25
+    vreme25El.textContent = odbojka[24].vreme25
+    domacin25El.textContent = odbojka[24].domacin25
+    gost25El.textContent = odbojka[24].gost25
+    dvadesetpetiPar1.textContent = odbojka[24].igra1
+    dvadesetpetiParX.textContent = odbojka[24].igraX
+    dvadesetpetiPar2.textContent = odbojka[24].igra2
+    // RUKOMET PAR 26
+    vreme26El.textContent = odbojka[25].vreme26
+    domacin26El.textContent = odbojka[25].domacin26
+    gost26El.textContent = odbojka[25].gost26
+    dvadesetsestiPar1.textContent = odbojka[25].igra1
+    dvadesetsestiParX.textContent = odbojka[25].igraX
+    dvadesetsestiPar2.textContent = odbojka[25].igra2
+    // RUKOMET PAR 27
+    vreme27El.textContent = odbojka[26].vreme27
+    domacin27El.textContent = odbojka[26].domacin27
+    gost27El.textContent = odbojka[26].gost27
+    dvadesetsedmiPar1.textContent = odbojka[26].igra1
+    dvadesetsedmiParX.textContent = odbojka[26].igraX
+    dvadesetsedmiPar2.textContent = odbojka[26].igra2
+    // RUKOMET PAR 28
+    vreme28El.textContent = odbojka[27].vreme28
+    domacin28El.textContent = odbojka[27].domacin28
+    gost28El.textContent = odbojka[27].gost28
+    dvadesetosmiPar1.textContent = odbojka[27].igra1
+    dvadesetosmiParX.textContent = odbojka[27].igraX
+    dvadesetosmiPar2.textContent = odbojka[27].igra2
+    // RUKOMET PAR 29
+    vreme29El.textContent = odbojka[28].vreme29
+    domacin29El.textContent = odbojka[28].domacin29
+    gost29El.textContent = odbojka[28].gost29
+    dvadesetdevetiPar1.textContent = odbojka[28].igra1
+    dvadesetdevetiParX.textContent = odbojka[28].igraX
+    dvadesetdevetiPar2.textContent = odbojka[28].igra2
+    // RUKOMET PAR 30
+    vreme30El.textContent = odbojka[29].vreme30
+    domacin30El.textContent = odbojka[29].domacin30
+    gost30El.textContent = odbojka[29].gost6
+    tridesetiPar1.textContent = odbojka[29].igra1
+    tridesetiParX.textContent = odbojka[29].igraX
+    tridesetiPar2.textContent = odbojka[29].igra2
+    // RUKOMET PAR 31
+    vreme31El.textContent = odbojka[30].vreme31
+    domacin31El.textContent = odbojka[30].domacin31
+    gost31El.textContent = odbojka[30].gost31
+    tridesetprviPar1.textContent = odbojka[30].igra1
+    tridesetprviParX.textContent = odbojka[30].igraX
+    tridesetprviPar2.textContent = odbojka[30].igra2
+    // RUKOMET PAR 32
+    vreme32El.textContent = odbojka[31].vreme32
+    domacin32El.textContent = odbojka[31].domacin32
+    gost32El.textContent = odbojka[31].gost32
+    tridesetdrugiPar1.textContent = odbojka[31].igra1
+    tridesetdrugiParX.textContent = odbojka[31].igraX
+    tridesetdrugiPar2.textContent = odbojka[31].igra2
+    // RUKOMET PAR 33
+    vreme33El.textContent = odbojka[32].vreme33
+    domacin33El.textContent = odbojka[32].domacin33
+    gost33El.textContent = odbojka[32].gost33
+    tridesettreciPar1.textContent = odbojka[32].igra1
+    tridesettreciParX.textContent = odbojka[32].igraX
+    tridesettreciPar2.textContent = odbojka[32].igra2
+    // RUKOMET PAR 34
+    vreme34El.textContent = odbojka[33].vreme34
+    domacin34El.textContent = odbojka[33].domacin34
+    gost34El.textContent = odbojka[33].gost34
+    tridesetcetvrtiPar1.textContent = odbojka[33].igra1
+    tridesetcetvrtiParX.textContent = odbojka[33].igraX
+    tridesetcetvrtiPar2.textContent = odbojka[33].igra2
+    // RUKOMET PAR 35
+    vreme35El.textContent = odbojka[34].vreme35
+    domacin35El.textContent = odbojka[34].domacin35
+    gost35El.textContent = odbojka[34].gost35
+    tridesetpetiPar1.textContent = odbojka[34].igra1
+    tridesetpetiParX.textContent = odbojka[34].igraX
+    tridesetpetiPar2.textContent = odbojka[34].igra2
+    // RUKOMET PAR 36
+    vreme36El.textContent = odbojka[35].vreme36
+    domacin36El.textContent = odbojka[35].domacin36
+    gost36El.textContent = odbojka[35].gost36
+    tridesetsestiPar1.textContent = odbojka[35].igra1
+    tridesetsestiParX.textContent = odbojka[35].igraX
+    tridesetsestiPar2.textContent = odbojka[35].igra2
+    // RUKOMET PAR 37
+    vreme37El.textContent = odbojka[36].vreme37
+    domacin37El.textContent = odbojka[36].domacin37
+    gost37El.textContent = odbojka[36].gost37
+    tridesetsedmiPar1.textContent = odbojka[36].igra1
+    tridesetsedmiParX.textContent = odbojka[36].igraX
+    tridesetsedmiPar2.textContent = odbojka[36].igra2
+    // RUKOMET PAR 38
+    vreme38El.textContent = odbojka[37].vreme38
+    domacin38El.textContent = odbojka[37].domacin38
+    gost38El.textContent = odbojka[37].gost38
+    tridesetosmiPar1.textContent = odbojka[37].igra1
+    tridesetosmiParX.textContent = odbojka[37].igraX
+    tridesetosmiPar2.textContent = odbojka[37].igra2
+    // RUKOMET PAR 39
+    vreme39El.textContent = odbojka[38].vreme39
+    domacin39El.textContent = odbojka[38].domacin39
+    gost39El.textContent = odbojka[38].gost39
+    tridesetdevetiPar1.textContent = odbojka[38].igra1
+    tridesetdevetiParX.textContent = odbojka[38].igraX
+    tridesetdevetiPar2.textContent = odbojka[38].igra2
+    // RUKOMET PAR 40
+    vreme40El.textContent = odbojka[39].vreme40
+    domacin40El.textContent = odbojka[39].domacin40
+    gost40El.textContent = odbojka[39].gost40
+    cetrdesetiPar1.textContent = odbojka[39].igra1
+    cetrdesetiParX.textContent = odbojka[39].igraX
+    cetrdesetiPar2.textContent = odbojka[39].igra2
+    // RUKOMET PAR 41
+    vreme41El.textContent = odbojka[40].vreme41
+    domacin41El.textContent = odbojka[40].domacin41
+    gost41El.textContent = odbojka[40].gost41
+    cetrdesetprviPar1.textContent = odbojka[40].igra1
+    cetrdesetprviParX.textContent = odbojka[40].igraX
+    cetrdesetprviPar2.textContent = odbojka[40].igra2
+    // RUKOMET PAR 42
+    vreme42El.textContent = odbojka[41].vreme42
+    domacin42El.textContent = odbojka[41].domacin42
+    gost42El.textContent = odbojka[41].gost42
+    cetrdesetdrugiPar1.textContent = odbojka[41].igra1
+    cetrdesetdrugiParX.textContent = odbojka[41].igraX
+    cetrdesetdrugiPar2.textContent = odbojka[41].igra2
+    // RUKOMET PAR 43
+    vreme43El.textContent = odbojka[42].vreme43
+    domacin43El.textContent = odbojka[42].domacin43
+    gost43El.textContent = odbojka[42].gost43
+    cetrdesettreciPar1.textContent = odbojka[42].igra1
+    cetrdesettreciParX.textContent = odbojka[42].igraX
+    cetrdesettreciPar2.textContent = odbojka[42].igra2
+    // RUKOMET PAR 44
+    vreme44El.textContent = odbojka[43].vreme44
+    domacin44El.textContent = odbojka[43].domacin44
+    gost44El.textContent = odbojka[43].gost44
+    cetrdesetcetvrtiPar1.textContent = odbojka[43].igra1
+    cetrdesetcetvrtiParX.textContent = odbojka[43].igraX
+    cetrdesetcetvrtiPar2.textContent = odbojka[43].igra2
+    // RUKOMET PAR 45
+    vreme45El.textContent = odbojka[44].vreme45
+    domacin45El.textContent = odbojka[44].domacin45
+    gost45El.textContent = odbojka[44].gost45
+    cetrdesetpetiPar1.textContent = odbojka[44].igra1
+    cetrdesetpetiParX.textContent = odbojka[44].igraX
+    cetrdesetpetiPar2.textContent = odbojka[44].igra2
+    // RUKOMET PAR 46
+    vreme46El.textContent = odbojka[45].vreme46
+    domacin46El.textContent = odbojka[45].domacin46
+    gost46El.textContent = odbojka[45].gost46
+    cetrdesetsestiPar1.textContent = odbojka[45].igra1
+    cetrdesetsestiParX.textContent = odbojka[45].igraX
+    cetrdesetsestiPar2.textContent = odbojka[45].igra2
+    // RUKOMET PAR 47
+    vreme47El.textContent = odbojka[46].vreme47
+    domacin47El.textContent = odbojka[46].domacin47
+    gost47El.textContent = odbojka[46].gost47
+    cetrdesetsedmiPar1.textContent = odbojka[46].igra1
+    cetrdesetsedmiParX.textContent = odbojka[46].igraX
+    cetrdesetsedmiPar2.textContent = odbojka[46].igra2
+    // RUKOMET PAR 48
+    vreme48El.textContent = odbojka[47].vreme48
+    domacin48El.textContent = odbojka[47].domacin48
+    gost48El.textContent = odbojka[47].gost48
+    cetrdesetosmiPar1.textContent = odbojka[47].igra1
+    cetrdesetosmiParX.textContent = odbojka[47].igraX
+    cetrdesetosmiPar2.textContent = odbojka[47].igra2
+    // RUKOMET PAR 49
+    vreme49El.textContent = odbojka[48].vreme49
+    domacin49El.textContent = odbojka[48].domacin49
+    gost49El.textContent = odbojka[48].gost49
+    cetrdesetdevetiPar1.textContent = odbojka[48].igra1
+    cetrdesetdevetiParX.textContent = odbojka[48].igraX
+    cetrdesetdevetiPar2.textContent = odbojka[48].igra2
+    // RUKOMET PAR 50
+    vreme50El.textContent = odbojka[49].vreme50
+    domacin50El.textContent = odbojka[49].domacin50
+    gost50El.textContent = odbojka[49].gost50
+    pedesetiPar1.textContent = odbojka[49].igra1
+    pedesetiParX.textContent = odbojka[49].igraX
+    pedesetiPar2.textContent = odbojka[49].igra2
+    // RUKOMET PAR 51
+    vreme51El.textContent = odbojka[50].vreme51
+    domacin51El.textContent = odbojka[50].domacin51
+    gost51El.textContent = odbojka[50].gost51
+    pedesetprviPar1.textContent = odbojka[50].igra1
+    pedesetprviParX.textContent = odbojka[50].igraX
+    pedesetprviPar2.textContent = odbojka[50].igra2
+    // RUKOMET PAR 52
+    vreme52El.textContent = odbojka[51].vreme52
+    domacin52El.textContent = odbojka[51].domacin52
+    gost52El.textContent = odbojka[51].gost52
+    pedesetdrugiPar1.textContent = odbojka[51].igra1
+    pedesetdrugiParX.textContent = odbojka[51].igraX
+    pedesetdrugiPar2.textContent = odbojka[51].igra2
+    // RUKOMET PAR 53
+    vreme53El.textContent = odbojka[52].vreme53
+    domacin53El.textContent = odbojka[52].domacin53
+    gost53El.textContent = odbojka[52].gost53
+    pedesettreciPar1.textContent = odbojka[52].igra1
+    pedesettreciParX.textContent = odbojka[52].igraX
+    pedesettreciPar2.textContent = odbojka[52].igra2
+    // RUKOMET PAR 54
+    vreme54El.textContent = odbojka[53].vreme54
+    domacin54El.textContent = odbojka[53].domacin54
+    gost54El.textContent = odbojka[53].gost54
+    pedesetcetvrtiPar1.textContent = odbojka[53].igra1
+    pedesetcetvrtiParX.textContent = odbojka[53].igraX
+    pedesetcetvrtiPar2.textContent = odbojka[53].igra2
+    // RUKOMET PAR 55
+    vreme55El.textContent = odbojka[54].vreme55
+    domacin55El.textContent = odbojka[54].domacin55
+    gost55El.textContent = odbojka[54].gost55
+    pedesetpetiPar1.textContent = odbojka[54].igra1
+    pedesetpetiParX.textContent = odbojka[54].igraX
+    pedesetpetiPar2.textContent = odbojka[54].igra2
+    // RUKOMET PAR 56
+    vreme56El.textContent = odbojka[55].vreme56
+    domacin56El.textContent = odbojka[55].domacin56
+    gost56El.textContent = odbojka[55].gost56
+    pedesetsestiPar1.textContent = odbojka[55].igra1
+    pedesetsestiParX.textContent = odbojka[55].igraX
+    pedesetsestiPar2.textContent = odbojka[55].igra2
 
     FdbBtn.classList.remove('active-btn')
     FdbBtn.style.border = "0px solid #40A3FF"
